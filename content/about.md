@@ -4,8 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
-## 1
-
 Kata itu tidak pernah membenci dan menyalahkan siapa pun. Maka apabila ada kata-kata yang terlihat begitu, minta ampunlah pada diri sendiri karena diri itu menipu kita semua dengan kejeniusannya. Bukannya si jenius diri itu jelek, tapi jenius seringkali tidak dibutuhkan para pembodoh. Karena kita adalah pembodoh, maka selalu minta ampunlah pada diri, agar diri tidak menipu kita sehingga dapat tampak kebenaran kata-kata yang tidak pernah dengan sombong membenci, dan menyalahkan apa-apa dan siapa-siapa.
 
 Tulisan saya memang seperti tulisan remaja FB sok edgy tahun 2010an. Tapi beginilah bentukan saya, "you are what you eat" and I eat trash everyday. Jadi jangan harap tulisan ini sejernih tulisan Hatta yang diisikan Islam dan filsafat, atau tulisan Cak Nun yang piawai menggabungkan budaya dan Islam, atau Muhammad Iqbal dengan gaya aforisme ala penyairnya, atau Gus Dur dengan komedi pluralitas yang mendamaikannya, atau Al-Ghazali <3 Ibnu Rusyid dengan rasionalitas metafisiknya, atau Ibnu Taimiyah yang piawai menghancurkan kesesatan ilmu kalam dan para filsuf, atau Ibnu Bajjah dengan manusia alpha, ghuraba-nya, atau siapa pun yang tulisannya aneh dan tidak dapat secara praktis diaplikasikan pada pembuatan roket untuk dapat memigrasi manusia menuju planet lain.
@@ -20,7 +18,7 @@ Karena dengan tahu sampah-sampah dan para pemberi sampah, kita akan semakin teri
 
 Maka setidaknya, meskipun kita terus memakan sampah setiap hari, datangilah kata-kata itu.
 
-## 2
+---
 
 I am an information system student even though I am actually interested in philosophy. I didn't take a philosophy degree because I am kind of illiterate and I can't imagine a response from my parents, also my counselor teacher from high school suggested not to take a philosophy degree.
 
