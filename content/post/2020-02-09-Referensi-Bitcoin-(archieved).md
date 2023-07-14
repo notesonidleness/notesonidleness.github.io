@@ -67,7 +67,9 @@ https://www.safepal.io/
 
 https://www.pajak.go.id/id/artikel/polemik-antara-regulasi-pemerintah-dan-virtual-currency
 
- 
+santi said japanese people prefer "how you make money" than "how much money you make", 
+
+{{< youtube id="krYUPzY_GXw" >}}
 
 equilibrium game theory ~ john nash
 
