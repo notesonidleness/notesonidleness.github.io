@@ -43,3 +43,5 @@ This is the quest in which Kaiki Deishu said,
 >The fake is of far greater value. In its deliberate attempt to be real, it's more real than the real thing.
 
 One thing you need to do is constantly remind yourself that you truly hate being fake or being a prostitute, and that you also desire authenticity. This is the only choice I have made until now. That's why I never want to be happy. I can't be authentic like Luffy. Those who claim to be happy are mostly constrained by plots that make them conform to what is considered normal, and they dislike soliciting or unknowingly enjoy being fakers. I am afraid I will become the latter one.
+
+![one piece intelligence level](https://catatankemalasan.files.wordpress.com/2023/07/op.jpg)
