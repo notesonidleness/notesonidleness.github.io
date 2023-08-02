@@ -26,6 +26,18 @@ beban keluarga, anak durhaka, kan udah tau bakal masuk neraka. im sorry for ever
 
 ayo make a jump, persetan yang bawah-bawah, ada sandbox kok, kalo ga ada ya innallillah gpp, kan itu tujuanmu, ingin ketemu yang satu kan, ayolah, anti anti anti fragile. kaya kpop, skrng dimasuk-masukin unsur2 filsuf tai kambing macam nietzsche, bts apa ya kalo ga salah yg persona2 freud itu anjing, jijik bngt. baru baca dikit tapi interpretasinya kemana-mana, mudah menyimpulkan. Lah terus harus gimana? bismillah aku harus berdoa ya allah ampuni baim ya allah, robbana dzolamna anfusana, si telek ini banyak masukin tai, tolong ampuni aing ya allah, tapi judi dikit gpp kali ya hwhwhwhwhwhwhhwhwh. tulisan boleh konyol, tapi ttp harus doa jangan mati konyol :( tapi aing berumur ratusan tahun juga kayanya ttp jadi bocah skeptis dengan tulisan GJ gini, serius ya allah ampuni aiiinnnnnnnggggggggg wooiiiiiiiiiiii!!!!!!!!!!!!!!!!!!
 
+### Strange Phrases
+
+artificia docuit fames - sophistication is born out of hunger
+
+ingenium mala saepe movent - When life gives you a lemon, make a lemonade
+
+necessity really is the mother of invention
+
+peter drucker, jacques lacan
+
+alan Greenspan
+
 ---
 
 ### Roadmap

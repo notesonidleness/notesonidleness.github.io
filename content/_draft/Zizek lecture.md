@@ -7,7 +7,7 @@
 - Jack White's music highlights the importance of creating limitations and small rooms for creativity.
 - The paradox of freedom is that it is accessed indirectly, requiring limitations.
 
-Lacan, Freud, and Hegel
+## Lacan, Freud, and Hegel
 - Lacanian theory suggests that anxiety is a mode of truth and arises when we get what we want.
 - Lacan argues that desire is insurmountable and essential to our sense of self.
 - Freud's theory of anxiety revolves around fear of separation from the object of desire.
@@ -15,7 +15,7 @@ Lacan, Freud, and Hegel
 - Idealism (naive, critical, self-reflective) and materialism are contrasting philosophical approaches.
 - Hegelian speculative idealism upends the previous idealist approaches.
 
-Kant and Christians
+## Kant and Christians
 - Kantian self-reflective idealism suggests that truth is mediated through conceptual reason.
 - Some Christians talk about the freedom they find in being Christian, seeing Christianity as liberating.
 - GK Chesterton describes Christianity as an armor that restricts movement but underneath it is unmitigated joy and freedom.
@@ -23,7 +23,7 @@ Kant and Christians
 - In Kantian ethics, the anxiety of existence arises from not knowing what God wants, and belief requires acting as if one knows.
 - Idealism upholds the idea of a master in the sky, while materialism transposes this relationship into the world of appearances.
 
-Psychoanalysis
+## Psychoanalysis
 - In psychoanalysis, the psychoanalyst does not act as a master but as a barrier to communion, allowing the individual to find autonomy and freedom.
 - Paying the psychoanalyst is precisely to pay them not to care or appease, but to provide a space for open expression.
 - Some people seek substitute father figures in thinkers or public figures, desiring a master who allows them to feel a sense of liberation.
@@ -31,7 +31,7 @@ Psychoanalysis
 - Impressionism introduced negation and abstraction into art, challenging the traditional depiction of objects and subjects.
 - The true master is the one who acts so freely that others recognize their own freedom.
 
-One piece :v
+## One piece :v
 - Luffy from the manga series "One Piece" exemplifies the Hegelian master, setting others free through his absolute freedom and indifference to societal norms.
 - Freedom is contagious, and when we act autonomously and freely, we inspire others to do the same.
 - Freedom is not about being better or more successful than others but about doing something that sets others free.

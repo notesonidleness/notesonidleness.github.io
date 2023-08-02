@@ -56,3 +56,29 @@ Perkumpulan apapun yang didekatmu itu tidak pernah sesuai denganku. Bahkan perku
 Sudah benar aku seperti Don Quixote yang mencari kekasih sejatinya Dulcinea, putri cantik sejagad raya, yang membuatku rindu padanya. Tapi bayanganku terhadapmu yang seperti Dulcinea itu omong kosong. Tidak ada Dulcinea di dunia nyata, ia yang membuatmu sangat rindu padanya, tidak ada. Kamu ini orang mati, yang hanya bisa berkata, “Aku hidup hanya untuk beribadah kepada Allah”. Maka tidak mungkin orang-orang sepertimu ini adalah Dulcinea. 
 
 Dulcinea, yang membuatku sangat rindu padanya, dengan kecantikannya yang luar biasa, keanggunan yang tiada tara, dan kesolehan yang melebihi surga, tidak ada. Yang paling mendekati, bukan kamu, tapi mungkin ia, si kematian. Atau mungkin semua ini sudah kamu rencanakan sedari awal, agar dapat lebih tertawa, bahwa aku akhirnya menganggap Dulcinea itu kematian?
+
+---
+
+31 Juli 2023
+
+Saat aku tahu begitu riaknya ombak perempuan, aku mengerti bahwa ia lebih menderita dari yang lain. Tapi sampai kapan pun, hanya ketahuan, tidak akan pernah dapat merasa. Maka laki-laki perlu mencari penderitaan, karena deritanya tidak sebesar perempuan, karena mereka ingin mengerti perempuan. Tapi perempuan yang tidak menderita, kau sungguh bisa pergi jauh ke kedalaman.
+
+Untuk ke kedalaman itu, kau perlu berguru pada pelacur, ia yang tidak menderita, menjadi ia yang menikmati. Tidak apa-apa palsu, karena yang belum menderita pun mencari kucing dan peliharaan untuk pelipur laranya, sesuatu yang memuakkan juga. Karena segala hal yang perlu pemeliharaan adalah hal yang memuakkan.
+
+Aku tahu bahwa kau merasa beda. Parasmu tidak seperti yang lain yang menderita, maka banyak yang terpesona olehmu. Di situlah kau bangga karena didengki oleh orang-orang yang tidak mendapat cinta. Tapi kau ingin berteriak, sesuatu yang diidam-idamkan kerumunan itu, saat kau mendapatkannya, ia justru malah seperti orgasme kebijaksaan, suatu pelopor kehampaan. Proses pengeluaran feses yang mereka bayangkan sebagai kejijikan, justru itulah yang sebenarnya mereka cari, kelegaan dan kedamaian dalam semangat menahan dan mengejan.
+
+Maka kotoran itulah yang kau bayangkan, yang kuning warnanya. Bahwa kuning itu menyerupai emas, seperti bayi-bayi yang lahir, katamu. Bukan merah, tapi kuning kepolosan. Atau segala macam interpretasi warna, semuanya tidak berguna bagi si buta. Bila merah darah itu pink, maka siapapun pasti ingin berperang. Betapa megahnya ia melawan segala yang patriarki dan tiran. Tapi untuk para buta warna, perang itu tidak ada harganya. Para buta pasti merindukan si kuning, suatu kelahiran ia yang menangisi kehidupan, karena begitu menderitanya air perempuan. Ia perlu berteriak, deritanya perlu diwariskan pada si kuning, hanya itu cara si perempuan mengentaskan deritanya.
+
+Wahai kau perempuan yang tidak menderita, kau tidak pantas untuk kesucian seperti itu. Keindahanmu harus dinikmati tidak hanya oleh satu lelaki, tapi 72 lelaki, bahkan lebih. Bukan saja manusia, tapi juga para binatang kaum pujangga. Saat kau bisa melayani semuanya berkali-kali lipat sedangkan kau hanya membatasi untuk 1 atau 0, yang dikali dengan apapun hasilnya akan itu juga, maka kau itu menjadi perempuan kikir! Ia yang berenergi lebih perlu memberi, layaknya mentari dan tumbuh-tumbuhan yang diam, cara mengasihi paling tertinggi adalah dengan menjadi diam. Dengan diamnya kau bukan berarti kau membatasi diri, tapi justru kau memancarkan kehidupan untuk semua yang lemah dan perlu diberi.
+
+Bukankah betapa menjengkelkan menerima dan memelihara ia yang sakit, karena dengan begitu kau berusaha menyaingi mereka yang mengasihi dengan kediamanannya, seperti mentari dan tumbuhan yang bisa hidup lebih abadi dengan diamnya. Dan dikala sudah seperti sedia kala, mereka akan melupakanmu yang merawat, lantas apa artinya keiklasan lemahmu itu. Penderitaanmu itu dusta dan hanya akal-akalanmu saja. Dengan kata-kata kuning kotoran sederhana yang membuatmu megah dan mengudara, atau dengan parasmu itu, kau tidak perlu merawat satu dua orang sakit dengan penuh perhatian. Kau bahkan bisa mencinta dan bercinta dengan segala jenis kehidupan yang mengasihimu, dengan khotbah jelitamu! Penderitaanmu itu bohong, kau butuh itu untuk menceritakan perjalananmu menjadi jiwa yang besar, yang memberikan cinta tak pandang bulu pada segala kehidupan, itulah jalan maha pelacur kau.
+
+Yang kau lakukan itu bukanlah pembatasan diri dan rasa syukur, melainkan kekikiran kau yang ingin selalu dipendam. Suatu kemegahan dan mimpi yang tak terbatas untuk ditunjukkan adalah rasa syukur. Tidak ada kerakusan dalam setiap pemberian cinta pada segala hal. Kau ini tidak menderita! Buanglah semua kucing-kucing penghiburmu, kau harus jadi ratu kucing yang memerintahkan semua lebah untuk menyengat para germo dan anjing yang berisik. Tidak pernah merasa cukup dan ingin selalu mengasihi adalah kemauanmu, maka jadilah itu! Cahaya rembulan akan selalu menghibur ia yang kau tinggalkan dengan rasa kantuknya. Dan bila kau pikir ia tidak dapat hidup tanpamu, itu artinya kau sudah menjadi si diktator sombong.
+
+Potensi mutiaramu itu akan selalu tenggelam dan terkekam di kedalaman samudera. Tapi aku tahu kau selalu tidak ingin menjadi mutiara. Kau ingin naik ke permukaan, menjadi burung. Menjadi mentari, yang menguapkan segala kedalamannya lautan, untuk membebaskan para mutiara lain, untuk membuat segala yang terkekang menjadi terbang dengan penuh kebebasan, juga menari dengan penuh kediaman. Dan kau tidak akan mampu menjadi surya apabila kau tetap dikekang oleh satu kerang.
+
+Begitulah sabda Tatang Sutarma...
+
+Cerpen untuk bu @ di universe lain yang gagal menjadi Menkeu dan bernasib seperti Anne Hathaway dalam Les Misérables.
+
+Bisa-bisanya aing mabok habis minum tāngyuán
