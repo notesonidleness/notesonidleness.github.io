@@ -24,7 +24,7 @@ art of clear thinking, daniel kahnemann bias,
 
 sadar bahwa defaultnya manusia itu emang tolol, penuh bias. 
 
-bias aroses because they are effective
+>Biases arose because they are effective. And effectiveness has always been a virtue favorable to survival
 
 tapi cari pola itu bisa dianggap sebagai menambang, cari tambang itu belum tentu ketemu, makanya dicari, 
 dan ga semuanya bisa ditemuin, tapi seengkanya bisa ditandain mana yang ada mana yang engga atau habisin jatah kegagalan
@@ -67,6 +67,21 @@ bila terlanjur mengalami faustian bargain, ya sudah, anda beruntung masih hidup
 
 growth mindset, antifragile, flow, atau apalah itu
 
-itu semua fastabiqul khairat doang anjeeng
+itu semua fastabiqul khairat doang -_-
 
 ![muslim.jpg](https://catatankemalasan.files.wordpress.com/2023/07/muslim.jpg)
+
+---
+1. How not to be ignorant about the world 
+2. The Beauty of Data Visualization
+3. Three ways to spot a bad statistic
+4. Big Data is better data
+5. The human insight missing from Big Data
+6. Your company’s data could end world hunger
+7. Who Controls the World
+
+Do you see uncertainty in the data?
+
+Do you see yourself in the data?
+
+How was data collected?

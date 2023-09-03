@@ -68,6 +68,8 @@ muslim di sana juga ada yg mengkhamr karena perang sm armenia
 kalo dikasih $1000000 buat ikut perang lagi katanya emoh, mending meninggal katanya
 game, yang dianggap sloth, ternyata yang ngasih dia harapan
 
+>If a sloth clapped, it would always sound sarcastic
+
 tapi di India, salah satu anak IT semester akhir masih ga ngerti cara deploy app dan gapunya github
 padahal ada abdul bari, kunal kushwaha, dan redundansi lainnya
 di sini ada anak IT ngerasa 120 klik lamaran aja udah ngerasa babak belur
@@ -100,7 +102,7 @@ yang atas itu berhak untuk memperbudak yang bawah, itu bentuk tanggung jawabnya,
 
 ...
 
-lihat? hanya satu asumsi, tapi dampaknya luar biasa besar, chaos theory. begitulah dunia ini bekerja, berbagai disiplin ilmu, berbagai hubungan, mengandalkan asumsi, tumpukan asumsi, thinking fast, penalaran induktif. lagian, siapa yang menemukan yang deduktif?
+lihat? hanya satu asumsi, tapi dampaknya luar biasa besar, chaos & complex theory. begitulah dunia ini bekerja, berbagai disiplin ilmu, berbagai hubungan, mengandalkan asumsi, tumpukan asumsi, thinking fast, penalaran induktif. lagian, siapa yang menemukan yang deduktif?
 
 multiple mental model adalah multiple negasi, selayaknya growth mindset, dan ketiadaan asumsi itu pun membuatmu luput dari gajah di pelupuk mata. sesederhana potongan kalimat the sixth sense. "I see dead people. Walking around like regular people. They don't see each other. They only see what they want to see. They don't know they're dead." 
 
