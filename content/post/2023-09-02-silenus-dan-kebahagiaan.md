@@ -33,11 +33,12 @@ Clouds Are Not Spheres, Bark Is Not Smooth, Mountains Are Not Cones, Coastlines 
 
 Model matematis yang digunakan oleh para ekonom neoklasik semuanya bersandar pada asumsi penyederhanaan tertentu tentang pasar, seperti persaingan sempurna, dan juga tentang perilaku produsen dan konsumen.
 
----
+--- 
+
 A physicist, an engineer and an economist are stranded in the desert. They are hungry. Suddenly, they find a can of corn. They want to open it, but how?
-The physicist says: “Let’s start a fire and place the can inside the flames. It will explode and then we will all be able to eat”.
-“Are you crazy?” says the engineer. “All the corn will burn and scatter, and we’ll have nothing. We should use a metal wire, attach it to a base, push it and crack the can open.”
-“Both of you are wrong!” states the economist. “Where the hell do we find a metal wire in the desert?! The solution is simple: ASSUME we have a can opener”… 
+
+The physicist says: “Let’s start a fire and place the can inside the flames. It will explode and then we will all be able to eat”. “Are you crazy?” says the engineer. “All the corn will burn and scatter, and we’ll have nothing. We should use a metal wire, attach it to a base, push it and crack the can open.” “Both of you are wrong!” states the economist. “Where the hell do we find a metal wire in the desert?! The solution is simple: ASSUME we have a can opener”… 
+
 ---
 
 Penyembah dewa Apollo berhasil menekan ketakutannya dengan ilusi kontrol diri Seneca, betapa sempurnanya semua ini. Dorongan untuk memperbaiki yang dilandaskan semangat apollonian, barangkali merupakan suatu bentuk kesombongan layaknya Haman dari zaman Firaun yang membangun menara setinggi mungkin untuk mengasumsikan matinya kebenaran. 
