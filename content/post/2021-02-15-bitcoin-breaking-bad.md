@@ -61,7 +61,7 @@ The example is like developing drug selling networking and you monopolize everyt
 
 It's still easy when only about drugs, but when it comes to dangerous weapons like chemistry or biological weapons, or developing technology which manipulates everything so you could benefit only yourself, it could lead to dystopian where everything is chaotic.
 
-But if the revolution is running smoothly, accompanied by responsible freedom, I believe, the world without governments is like a promising world if everyone can do anything responsibly. And of course, come again to the first, good intention is not enough. Walter has good intentions not to burden his family by selling drugs, the intention is realized but he ends up his life anxiously and miserably. So, good intentions are never enough. But actually, I'm a little hopeful in this cryptocurrency era.<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed">
+But if the revolution is running smoothly, accompanied by responsible freedom, I believe, the world without governments is like a promising world if everyone can do anything responsibly. And of course, come again to the first, good intention is not enough. Walter has good intentions not to burden his family by selling drugs, the intention is realized but he ends up his life anxiously and miserably. So, good intentions are never enough.<figure class="wp-block-embed is-type-rich is-provider-embed wp-block-embed-embed">
 
 ![father](https://i.pinimg.com/originals/4c/0e/d8/4c0ed845a5d91f9ae34d0283fb266209.jpg)
   
