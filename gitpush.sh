@@ -1,3 +1,5 @@
 git add . ;
-git commit -m "$*";
-git push;
+
+git commit -m "p" ;
+
+git push ;
