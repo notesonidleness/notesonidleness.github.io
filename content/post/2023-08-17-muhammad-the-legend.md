@@ -3,6 +3,7 @@ date: "2023-08-17"
 tags:
 - story
 - essay
+- muslim
 title: Musings on Life, Legends, and the Quirks of Human Nature
 ---
 

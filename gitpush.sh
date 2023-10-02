@@ -1,5 +1,6 @@
-git add . ;
 
-git commit -m "p" ;
+git add .
 
-git push ;
+git commit -m "p"
+
+git push
