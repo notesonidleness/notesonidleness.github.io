@@ -55,7 +55,9 @@ Inaction isn't really inaction if you can use your energy to research with a lot
 
 These things always come to my mind when I encounter someone who is hungry and struggling. Like, how is it possible that there are so many mosques but they still don't know that there are hungry people, that there are so many people struggling. I know it's not my responsibility, but I'm really afraid, what if it is our responsibility?
 
-I see people complaining like that mostly in FB `Keluh Basah Lele Berulah`. If you'd like to participate in PKM, you should check that group to find problems. They create a story about their struggles and suddenly people donate to them online. I've had a few people try to sell me their stories, and the one I remember the most is from Tebet, 'kalo bundir ga dilarang agama gua bundir bang, anak2 gua dah ga pada peduli, susah bngt cari makan, mana mau servis motor doang kena tipu lagi...' 
+I see people complaining like that mostly in FB `Keluh Basah Lele Berulah`. If you'd like to participate in PKM, you should check that group to find problems. They create a story about their struggles and suddenly people donate to them online. I've had a few people try to sell me their stories, and the one I remember the most is from Tebet, 
+
+'kalo bundir ga dilarang agama gua bundir bang, anak2 gua dah ga pada peduli, susah bngt cari makan, mana mau servis motor doang kena tipu lagi...' 
 
 But luckily, I'm a skeptical person and have been fooled many times because I've been friends with scammers and magicians, so I'm not easily swayed by things like that. But what if their condition is true? That's why I need data, I need standard operating procedures to verify.
 
