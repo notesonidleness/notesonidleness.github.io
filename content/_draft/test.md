@@ -6,3 +6,5 @@ Orang normal menurunkan materi genetik melalui sel sperma dan sel telur. Virgin 
 
 
 
+
+

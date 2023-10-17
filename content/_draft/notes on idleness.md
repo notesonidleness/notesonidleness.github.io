@@ -28,3 +28,6 @@ Arrival fallacy
 
 Arbeit macht frei
 
+"Don’t underestimate the value of doing nothing." Christopher Robin
+
+
