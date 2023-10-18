@@ -10,7 +10,7 @@ I don't want to talk about the history of the popularity of emot ":v" or as we c
 
 or this from the tweet of
 
-[Eno Bening](https://t.co/5GQSrlbEVZ)
+https://t.co/5GQSrlbEVZ
 
 From that case, What I mean it's just a simple and trifling case, but the context is always behaved as it is.
 
