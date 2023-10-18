@@ -122,3 +122,79 @@ Conclusion
 - scored high on egalitarianism, nurturing, individualism
 - dare 
 - kebanyakan yg bagusnya, males cari poinnya lol
+
+## Summarize
+
+Israel:
+
+- Majority of Israeli tech companies listed on NASDAQ, making it an R&D world leader in the economy.
+- Transformed from a desolate expanse into a dynamic entrepreneurial country.
+- Key factors: innovation, productivity, entrepreneurship.
+
+Chapter 1:
+
+- PayPal acquires Fraud Sciences with an amusing story.
+- Israeli team credited for making Intel chip smaller.
+- Israelis known for their blunt honesty.
+
+Chapter 2:
+
+- War experiences, often led by young commanders.
+- Anti-hierarchical culture, even in the military.
+- Chutzpah (audacity).
+
+Chapter 3:
+
+- Arab League boycotts Israeli products from the 18th-19th century, but Israelis find innovative solutions and quietly build tech companies.
+- Despite boycotts, Israeli technology remains high-quality and eventually adopted by many countries, leading to normalization with Israel.
+- Young Israelis often travel abroad due to challenges in establishing businesses at home, but their innovation thrives.
+- High nationalism persists abroad; Israelis frequently highlight their prowess.
+
+Chapter 4:
+
+- In Israel, military service often valued more than academic background.
+- Examples: Fraud Sciences, Mamram, Talpiot.
+
+Chapter 5:
+
+- Contrasting case studies: Singapore and Korea.
+- While both have mandatory military service, their cultures differ from Israel's emphasis on openness and flexibility.
+- Israel's unique cultural elements drive adaptability and innovation, especially due to living in a conflict-prone region.
+
+Chapter 6:
+
+- Ben-Gurion and team's efforts to build and protect Israel from 1948-1970.
+- Kibbutzim exemplify communal living.
+- Limited policing, court systems, private money, and email in early Israel.
+
+Chapter 7:
+
+- Operations to repatriate Jews from Ethiopia and Soviet Union.
+- Immigrant mentality of striving for excellence in various professions for self-protection.
+- Examples: Sergey Brin, Larry Page, and other immigrant Jews from the Soviet Union.
+
+Chapter 8:
+
+- Cisco's success and the growth of Israel's aviation/aeronautical industry.
+
+Chapter 9:
+
+- Iscar's success and the "Buffet Test."
+
+Chapter 10:
+
+- Yozma initiative: Government invests $100 million in 10 new venture capital funds, requiring representation from Israeli and foreign VCs, as well as Israeli investment companies/banks.
+
+Chapter 11:
+
+- Arab boycott and Charles de Gaulle credited as catalysts for Israeli hi-tech industry development.
+
+Chapter 12 & 13:
+
+- Sheikh's dilemma: Critiques and advice for Arab countries.
+
+Conclusion:
+
+- Israel scores high on egalitarianism, nurturing, and individualism.
+- Emphasis on audacity and innovation.
+- Many successes, often achieved with a distinctive Israeli approach.
