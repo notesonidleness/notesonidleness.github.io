@@ -77,8 +77,6 @@ Yang kau lakukan itu bukanlah pembatasan diri dan rasa syukur, melainkan kekikir
 
 Potensi mutiaramu itu akan selalu tenggelam dan terkekam di kedalaman samudera. Tapi aku tahu kau selalu tidak ingin menjadi mutiara. Kau ingin naik ke permukaan, menjadi burung. Menjadi mentari, yang menguapkan segala kedalamannya lautan, untuk membebaskan para mutiara lain, untuk membuat segala yang terkekang menjadi terbang dengan penuh kebebasan, juga menari dengan penuh kediaman. Dan kau tidak akan mampu menjadi surya apabila kau tetap dikekang oleh satu kerang.
 
-Begitulah sabda Tatang Sutarma...
-
 Cerpen untuk bu @ di universe lain yang gagal menjadi Menkeu dan bernasib seperti Anne Hathaway dalam Les Misérables.
 
 Bisa-bisanya aing mabok habis minum tāngyuán

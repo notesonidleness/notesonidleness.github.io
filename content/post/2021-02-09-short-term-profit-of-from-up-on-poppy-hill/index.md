@@ -41,9 +41,9 @@ Miyazaki leads his audience, building stair after staircase, for something calle
 
 But I rather say, Miyazaki, or the pseudo statistician, or any other scientist is nothing but the same as a stair builder.
 
-The stairs builders arrange the stairs one by one, climb them, rearrange them, and climb them again, they believe because they can go to the upper side it means that the stairs they're building are working. It is like this Spongebob scene.<figure class="wp-block-image is-resized">
+The stairs builders arrange the stairs one by one, climb them, rearrange them, and climb them again, they believe because they can go to the upper side it means that the stairs they're building are working. It is like this Spongebob scene.
 
-![spongebob: Spongebob Creepy Smile Gif](https://thumbs.gfycat.com/PresentGrippingLangur-size_restricted.gif)
+![science and religion so far](https://i.redd.it/0sjoypp5abc11.gif)
 
 They keep on nailing and riding it. By human logic, it is impossible and illogical, Spongebob will fall at the first board he hammered. But "Director" logic is not the same as human logic. And that applies to modern humans today. Or that is what is called probability.
 
