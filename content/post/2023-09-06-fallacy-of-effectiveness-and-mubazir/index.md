@@ -4,7 +4,7 @@ tags:
 - story
 - muslim
 - essay
-title: "The Fallacy of Effectiveness and Kemubaziran."
+title: "The Fallacy of Effectiveness and Kemubaziran"
 ---
 
 ![alif lam mim kaf ha ya ain sod](<alif lam mim kaf ha ya ain sod.jpg>)
