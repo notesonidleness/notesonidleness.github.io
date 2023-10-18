@@ -1,5 +1,7 @@
 Notes on Idleness
 
+Catatan kemalasan: Seni dan anti panduan untuk yang merasa bukan normal
+
 “There is only one inborn error, and that is the notion that we exist in order to be happy..."
 
 “First of all: what is work? Work is of two kinds: first, altering the position of matter at or near the earth’s surface relatively to other such matter; second, telling other people to do so. The first kind is unpleasant and ill paid; the second is pleasant and highly paid.”

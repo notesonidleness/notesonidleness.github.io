@@ -81,4 +81,5 @@ A person spends years coming into this own, developing his talent, his unique gi
 
 ![mad-cat](https://catatankemalasan.files.wordpress.com/2022/05/mad-cat.jpeg)
 
+![gus fring play slot](<gus fring play slot.jpg>)
 > Sumbernya aslinya ilang maap
