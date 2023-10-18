@@ -41,4 +41,6 @@ So maybe we are creating a machine that more super than its creator?
 
 I don't know. I am just curious why I stopped using the emot":v" after knowing the majority considered that emoticon as somewhat annoying, when actually I enjoy using it
 
+id_tweet="1664538094224437250"
+
 wkwk ngomongin "anti kebahagian", lu aja salah satu pembuat narasi emot pacman yimyam overrated, manufacturing consent bikin orang yg enjoy pake emot itu lost theirself dan ngerasa kayak elitist. stigma buat pengguna emot :v jadi kayak orang kena hiv. padahal dulu enjoy bngt ane pake emot itu karena merupakan salah satu simbol dionisyan egaliter, eh lu malah mempromosikan rasionalitas euclid aristotlean yg bikin gedung-gedung jadi membosankan. Salam jari tengah dari anak icak meme bang :v
