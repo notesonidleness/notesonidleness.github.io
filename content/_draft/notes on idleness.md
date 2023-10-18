@@ -30,4 +30,6 @@ Arbeit macht frei
 
 "Don’t underestimate the value of doing nothing." Christopher Robin
 
+Intelligence is a problem-solving tools, not a self-esteem competition tools.
+
 
