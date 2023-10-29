@@ -33,7 +33,7 @@ From this perspective, this individual is actually a villain because what he pre
 
 ![bryan johnson](bryan_johnson.png)
 
-Someone like him fights entropy in an attempt to attain eternal beauty. Those who follow him probably find ecstasy in imagining the dragon being slain.
+Someone like him fights entropy in an attempt to attain eternal beauty. Those who follow him probably find ecstasy in imagining the dragon being slain in "The Fable of the Dragon-Tyrant"
 
 {{< youtube id="cZYNADOHhVY" >}}
 
