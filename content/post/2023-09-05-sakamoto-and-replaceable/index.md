@@ -14,7 +14,7 @@ Dependency is something I never force onto someone or any system. If I am someho
 
 For a company, organization, or family, I don't want to be seen as irreplaceable. Another must replace me, another must replace me, even if it means letting go of me, to ensure everything remains loosely coupled.
 
-I want everything to be light, so there's always room to grow for anyone. A system can't thrive if it's burdened by manipulation and exaggeration.
+I want everything to be light, so there's always room to grow for anyone. A system can't fly if it's burdened by manipulation and exaggeration.
 
 I won't create dirty, unreadable code so the company becomes dependent on me. I won't monopolize communication; I must be transparent, showing everything I have in a proper way.
 
@@ -38,4 +38,6 @@ But that's not the Sakamoto way. Sakamoto rationalizes and sharpens his intuitio
 
 In doing so, he both helps and challenges the tyrants, making them realize that they are tyrants. There is real action there, no matter how pseudo your definition of 'real.'
 
-While most people don't reach that level, instead, they let the abusers continue without remorse for what they do, allowing them to fall into a state of delusion. They try to find cheap pleasure to suppress their malicious hearts. One must rise above Sakamoto.
+While most people don't reach that level, instead, they let the abusers continue without remorse for what they do, allowing them to fall into a state of delusion. They try to find cheap pleasure to suppress their malicious hearts. 
+
+But I must say, one must rise above Sakamoto.
