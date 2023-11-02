@@ -22,4 +22,4 @@ Here, I announce the death of my dreams. Please, anyone, come to her funeral. We
 
 I dare you all to announce your dead dreams, bury them, and let them follow their desires.
 
-Innalillahi Wainnailihi rojiun.
+Innā lillāhi wa innā ilaihi rāji'ūn.
