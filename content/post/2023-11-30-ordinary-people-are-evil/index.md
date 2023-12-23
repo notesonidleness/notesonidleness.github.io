@@ -2,6 +2,8 @@
 date: "2023-11-30"
 tags:
 - story
+- muslim
+- essay
 title: "Peter Singer - Ordinary People Are Evil"
 ---
 
