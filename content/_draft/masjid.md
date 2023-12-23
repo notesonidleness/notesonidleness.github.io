@@ -215,4 +215,3 @@ Bagaimana surga menurut anda
 
 Bagaimana hidup selamanya menurut anda.
 
-

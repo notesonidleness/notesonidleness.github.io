@@ -364,3 +364,6 @@ Jika ada yang merasa tidak membuang waktu, maka ini mungkin merupakan sindiran u
 - QS University
 - Social Credit System di China
 - Masjid Salman ITB, Masjid Jogokaryan, Himpunan Rohis Kota Bandung
+- https://play.google.com/store/apps/details?id=com.blessindonesia.masjidkukom
+- https://play.google.com/store/apps/details?id=com.halomasjiddkm
+- Masjidkita : https://play.google.com/store/apps/details?id=com.edu.edulearning
