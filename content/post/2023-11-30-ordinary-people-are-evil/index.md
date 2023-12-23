@@ -5,7 +5,7 @@ tags:
 title: "Peter Singer - Ordinary People Are Evil"
 ---
 
-{{< youtube id="KVl5kMXz1vA" autoplay="true" >}}
+{{< youtube id="KVl5kMXz1vA" >}}
 
 Orang utilitarian gini mirip komunis lemah syahwat, selalu cari silver bullet untuk melengkapi lobang ideologinya. Kalo ga sesuai tinggal potong2 minoritas dan buang outlier selayak procustes tentang apa2 yang ga sesuai sama mereka karena kurang bisa menerima diversitas dan buru-buru ingin perfect. That's why I love them. 
 
@@ -35,3 +35,18 @@ however, they aim to maximize entertainment to remain grateful every day only fo
 they suggest letting jesw, chenesi, and isethat become global leaders because some of them are more competent to serve as a 'khalifah' and potentially make the world a better place as rahmatan lil alamin better than most mislums.
 
 ![Alt text](_903338ab-a02e-4bac-9ae7-ce1353a3c61d.jpg)
+
+---
+
+{{< youtube id="I19btmIBhx0" >}}
+
+wkwk ini coldfusion aja udah merambah ke field ini. mana business model
+mu kawan?
+
+"There is no viable business model. The ultimate solution to loneliness lies in a totalitarian Muslim surveillance government, monitoring every aspect of people's lives: their movements, behavior, genetics, beliefs, and environmental conditions.
+
+This system automatically assesses individuals from birth to death. The government simultaneously develops industries and communities based on the detected needs of each person. This approach ensures that individuals always find satisfaction through the manipulation of their environment, fostering feelings of love, heightened self-esteem, and self-actualization.
+
+The system and individuals complement each other. If there is a lack of resources for someone's growth, the system promptly provides them. If there is a shortage of government funds to support an individual's needs, the system forcefully instills a realistic mindset in that person. Each day brings something new, be it a new sports and entertainment model, a field in the so-called social sciences, or new theories, preventing people from experiencing loneliness.
+
+In the case of Mephistopheles, he must wait for someone's desires before bargaining. In the case of this modern totalitarian Muslim surveillance government combined with the latest capitalist trends, the system can teach you what you want before you even realize it. It is a step ahead of Mephistopheles."

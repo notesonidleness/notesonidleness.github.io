@@ -59,7 +59,7 @@ indonesia apabila orang2 tech dan MBA jadi marbot masjid
 
 i want to write a novel like daerah salju yasunari kawabata, but university ruins me by mencekokiku dengan formalitas pendidikan dari kuliah metodologi mppi, so it turns out it is like dokumentasi analisis dan perancangan sistem informasi, yang gagal aku ikutkan ke gemastik di tahun pandemi karena tulisanku seperti orang obsessed terhadap sesuatu dan terlalu mabuk sehingga aku gagal marketing my ideas and objective to para sapi di rumah penggilingan. 
 
-philosopher now is abundance, young tends to be more in home and give up, worlds become boring is everyone is philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i called 'home' to any place on earth which i find solace, then it means i always home because i am a cosmopolitan... thus i am a hikkikomori by nature...
+philosopher now is abundance, young tends to be more in home and give up, worlds become boring is everyone is philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i regaard and called 'home' to any place on earth which i find solace, then it means i always home because i am a cosmopolitan... thus i am a hikkikomori by nature...
 
 but even in a moderate there's always a invinsible kutub
 
@@ -138,7 +138,7 @@ Kualitas manusia diukur secara relevan berdasarkan bidangnya masing-masing. Tiap
 
 Para pemuda masjid aktif dalam menyelesaikan berbagai problematika di sekitar masjid tersebut. Apabila terdapat masalah, masyarakat bisa melaporkan tiket pada sistem masjid sehingga nanti masalahnya dapat diselesaikan secara musyawarah atau voting apabila tidak memungkinkan. 
 
-Metodologi penyelesaian masalah tersebut dilakukan secara agile dengan beberapa sprint. Beberapa tiket masalah yang pernah didaftarkan adalah anak kecanduan main game online, mikrofon masjid yang sangat keras di luar jam solat, banyak sampah plastik, tumpukan sampah yang dibuang sembarangan, tetangga yang sering membakar sampah, setelan musik yang menyebabkan polusi suara. 
+Metodologi penyelesaian masalah tersebut dilakukan secara agile dengan beberapa sprint. Beberapa tiket masalah yang pernah didaftarkan adalah anak kecanduan main game online, mikrofon masjid yang sangat mengganggu di luar jam solat wajib, banyak sampah plastik, tumpukan sampah yang dibuang sembarangan, tetangga yang sering membakar sampah, setelan musik yang menyebabkan polusi suara. 
 
 -- insert gambar tiket PM
 

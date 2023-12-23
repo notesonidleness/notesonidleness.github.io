@@ -60,3 +60,6 @@ Thus spoke Tatang Sutarma"
 
 If you're a meme hunter and in an environment like ponpes husnul khotimah/zaytun/gontor; zarathustra and qada & qadar from ibn qayyim is a rich resource to find any background of the first and the last meme."
 
+"Perlu gas trial and error, fuck around and find out, jangan malu keliatan goblok, yg penting tau batesan aja jangan sampe bikin orang lumpuh atau meninggal. Bikin orng keliatan "meningggal" jg gpp kyk judas iskaryot, nanti pasti selalu ada yang lebih pintar bakal koreksi. Seorang troller selalu menghasilkan positive sum game"
+
+
