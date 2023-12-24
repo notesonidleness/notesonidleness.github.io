@@ -1,4 +1,4 @@
-# dari google keep
+# Solution to a problem that doesn't exist
 
 The answer to that is the "Social Credit System", but since the words themselves carry a negative connotation, we could replace the name with "Religious Acceleration" or "Akselerasi Smart City Melalui Masjid Berprestasi" or any other name you prefer.
 
@@ -73,13 +73,13 @@ Jika ada pengemis, maka pengemis tersebut dilaporkan ke masjid/RT/RW terdekat un
 
 Dibandingkan dengan Bukit Algoritma mangkrak sentralistik yang ketinggalan zaman dan bersifat elitist, SCS berdasarkan masjid ini bersifat lebih terdesentralisasi dan egaliter.
 
-# untuk sabda, cania, zenius
+# Untuk para libertarian
 
-Salah satu hal yang menjadi blind spot bagi orang-orang liberal progresif seperti Cania, Sabda, Budiman, dan lain sebagainya adalah bidang agama.
+Salah satu hal yang menjadi blind spot bagi orang-orang libertarian progresif seperti Cania, Sabda, Budiman, dan lain sebagainya adalah bidang agama.
 
 Meskipun Pak Guru Gembul memiliki banyak asbunnya, setidaknya dia berani speakup terkait hal ini.
 
-Mereka berpikir bahwa menyentuh ranah agama itu high risk sehingga tidak ada yang berani melakukannya, dan negara-negara maju cenderung sekuler sehingga belum ada contoh terkait aspek ini, otomatis research nya kurang.
+Mereka berpikir bahwa menyentuh ranah agama itu *high risk* sehingga tidak ada yang berani melakukannya, dan negara-negara maju cenderung sekuler sehingga belum ada contoh terkait aspek ini, otomatis research nya kurang.
 
 Madilog Tan Malaka yang mendorong untuk mengurangi mistisisme tidak akan berhasil. Indonesia kaya akan budaya juga karena agama, sehingga jika ingin menghapus mistisisme, di mana banyak yang beririsan dengan keyakinan, justru richness nya bakal berkurang.
 
@@ -125,10 +125,9 @@ Sehingga orang-orang di daerah tidak perlu pergi jauh-jauh ke ibu kota untuk men
 
 Digitalisasi ini hanya dapat terjadi jika para sepuh berani mengakui bahwa mereka sudah ketinggalan zaman, terbuka terhadap kaderisasi dan regenerasi manajemen, serta membuka dan menyediakan akses kepada generasi muda untuk dapat mengelola dengan kreatif. Generasi muda perlu berkomunikasi dengan generasi tua agar mereka merasa dibutuhkan, sehingga semua orang dapat berpartisipasi aktif.
 
-# cerpen
-Bayangkan masjid sudah terdigitalisasi. 
+# Cerpen
 
-||| Pengemis
+## Petruskan pengemis
 
 Ada pengemis meminta uang, kamu langsung cek web SIMAS hasil dari kerjasama Kementerian Agama dan Kementerian Sosial, 
 
@@ -158,26 +157,31 @@ Kualitas manusia diukur secara relevan berdasarkan bidangnya masing-masing. Tiap
 
 ---
 
-Para pemuda masjid aktif dalam menyelesaikan berbagai problematika di sekitar masjid tersebut. Apabila terdapat masalah, masyarakat bisa melaporkan tiket pada sistem masjid sehingga nanti masalahnya dapat diselesaikan secara musyawarah atau voting apabila tidak memungkinkan. 
+## Marbot masjid sebagai dream job dan profesi idaman
+
+Para pemuda masjid aktif dalam menyelesaikan berbagai problematika di sekitar masjid tersebut. Apabila terdapat masalah, masyarakat bisa melaporkan tiket JIRA pada sistem masjid sehingga nanti masalahnya dapat diselesaikan secara musyawarah atau voting apabila tidak memungkinkan. 
 
 Metodologi penyelesaian masalah tersebut dilakukan secara agile dengan beberapa sprint. Beberapa tiket masalah yang pernah didaftarkan adalah anak kecanduan main game online, mikrofon masjid yang sangat mengganggu di luar jam solat wajib, banyak sampah plastik, tumpukan sampah yang dibuang sembarangan, tetangga yang sering membakar sampah, setelan musik yang menyebabkan polusi suara. 
 
--- insert gambar tiket PM
+*** insert gambar tiket PM
 
 Pelapor menjelaskan 5W1H tiket tersebut. Beberapa aspek yang penting adalah nama dari pelapor (Ia bisa memilih melapor sebagai anonim atau tidak, tetapi sangat dianjurkan untuk melapor dengan nama asli karena masyarakat sangat terbuka dan toleran terhadap berbagai masalah tersebut), serta beberapa pihak yang terlibat, dan scope dari permasalahan tersebut. Nantinya para remaja dan pengelola masjid menentukan prioritas dari masalah tersebut apakah besar atau tidak, tapi tetap diusahakan semuanya diprioritaskan. 
 
-—
+---
+## Ustadz paham SDG dan prioritas
+
 Para ustad menyusun agenda dan menyesuaikannya dengan SGD development untuk masjid. 
 
 
 
-—
-||| Hafizh & Hafzah Scarcity
+---
+
+## Hafizh & Hafzah Scarcity
 
 Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti blockchain, bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta artificial intelligence peliharaannya apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
 
-—
-||| Konflik antar agama
+---
+## Nasib khawarij, Syiah, Ahmadiyah, Islam kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan Salafi Sufi
 
 Berbagai macam sekte agama diizinkan untuk beroperasi di Indonesia, dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
 
@@ -203,8 +207,8 @@ Keduanya saling mengutuk bahwa masing-masing pihak akan masuk neraka. Dilihat da
 
 Peringatan tersebut kadang berhasil dan kadang tidak, tapi statistik belum menunjukkan bahwa tindakan tersebut merupakan kegagalan, sehingga peringatan tetap dilanjutkan oleh para polisi. 
 
-–
-Para penyendiiri dibiarkan menyendiri
+---
+### Spesies tipe baru: Ghuraba Hikkikomori Ubermensch
 
 Ketika tingkat hikkikomori meningkat yang artinya semakin banyak orang menyerah atau tidak ingin berpartisipasi dalam kehidupan sosial di luar digital, masyarakat berempati pada orang-orang yang mengalami hal tersebut. Masyarakat tidak hanya membiarkan orang-orang dalam kondisi seperti itu diam saja, atau berusaha terlalu ikut campur dalam permasalahan yang mereka hadapi, melainkan selalu mengamati dari luar, dan berusaha untuk terus membantu apabila dibutuhkan. 
 
@@ -218,19 +222,20 @@ Masyarakat sulit bertindak terhadap tipe yang satu ini. Yang mereka bisa adalah 
 
 Terdapat 2 kemungkinan dari kondisi langka tersebut. Yang pertama adalah orang tersebut dapat mengatasinya dan mendokumentasikan bagaimana cara mengatasinya, sehingga ia akan menjadi lebih kuat dan dapat membantu orang-orang yang kemungkinan besar akan menghadapi masalah yang sama. Kemungkinan kedua adalah orang tersebut tidak kuat dalam menghadapi masalahnya, serta muncul di pikirannya untuk mengakhiri masalah hingga ke akarnya, yaitu dengan menghentikan sistem pernapasannya. Pada saat ini terjadi, masyarakat sudah tidak dapat berbuat apa-apa lagi dan kehilangan salah satu potensi terbesarnya untuk dapat hidup dan berkontribusi.
 
-–
+---
+## Nasib para suicidal, para tersesat, dan yang kehilangan harapan hidup
+
 Orang yang ingin bunuh diri dideteksi sedini mungkin, setiap tetangganya tau bahwa
 
 
 
-—
-Para mahasiswa bersatu untuk open source masjid 
+---
+## Mahasiswa bersatu untuk meng-open source-kan sistem keagamaan
 
 Setiap bocil pada bisa jadi manajer masjid, tidak perlu MBA, setiap perusahaan mencari CEO dari tiap marbot masjid dengan rank tinggi 
 
 
-—
-
+--- 
 Masalah saat ini adalah orang terlalu bahagia, dan populasi terlalu banyak
 
 Bagaimana surga menurut anda
@@ -239,7 +244,7 @@ Bagaimana hidup selamanya menurut anda.
 
 
 ---
-epilog
+# epilog
 
 i want to write a novel like daerah salju yasunari kawabata, but university ruins me by mencekokiku dengan formalitas pendidikan dari kuliah metodologi MPPI, so it turns out it is like dokumentasi analisis dan perancangan sistem informasi, yang gagal aku ikutkan ke Gemastik di tahun pandemi karena tulisanku seperti orang obsessed terhadap sesuatu dan terlalu mabuk sehingga aku gagal marketing my ideas and objective to para sapi di rumah penggilingan. 
 
