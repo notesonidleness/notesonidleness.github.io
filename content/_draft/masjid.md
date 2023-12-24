@@ -1,115 +1,135 @@
 # dari google keep
 
-the answer to that is social credit system, but since the words itself is berkonotasi buruk, we could replace the name as religious acceleration/akselerasi smart city melalui masjid berprestasi or whatever named you want. 
+The answer to that is the "Social Credit System", but since the words themselves carry a negative connotation, we could replace the name with "Religious Acceleration" or "Akselerasi Smart City Melalui Masjid Berprestasi" or any other name you prefer.
 
-"this the era where complexity arouses, you must become specialize, and die. one or 2 intersect subjects could really help, but too many, you could end up become an obsolete polymath."
+This is the era where complexity arises; you must specialize, or perish. Focusing on one or two intersecting subjects could be beneficial, but delving into too many could lead you to become an obsolete polymath.
 
-if in ccp they underrate or indifferent towards religion, in indonesia the focus is religion as their ciri khasnya.
+While in CCP they undervalue or are indifferent towards religion, in Indonesia, religion is their distinctive characteristic.
 
-1. gerakan mahasiswa muslim di tiap univ menjadi inisiatornya. seperti gamais, karisma salman itb, dan hirokoba, 
-mereka perlu stop kegiatan dakwah formalitas useless. 
+1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; FUKI Fasilkom UI, dll. Mereka perlu menghentikan kegiatan dakwah formalitas yang tidak produktif.
 
-mereka menjadi data tech organization yang berusaha mendata dan mempropagandakan SMAs SMPs untuk revolusi tiap masjid di indonesia. 
+Mereka beralih menjadi "data tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di Indonesia. Kata kunci utamanya adalah "integrasi".
 
-the key words is always, 'integration'
+Penggulingan kelompok Boomer dan golongan tua seharusnya hanya membuat mereka menjadi penasihat, sementara regenerasi dan peningkatan terus berlangsung di masjid-masjid inovatif.
 
-penggulingan boomer dan golongan tua, mereka hanya perlu jadi penasihat saja, dan harus selalu ada regenerasi dan improvement masjid inovatif. 
+Ajakan kepada para profesional teknologi dan umat Muslim untuk melakukan aksi anarkis, dengan tujuan agar transparansi dalam semua anggaran dan aset pemerintahan dapat diwujudkan. (Mendesak progress Kemenag terhadap https://simas.kemenag.go.id)
 
-mengajak para tech dan muslim untuk melakukan anarkis, agar siapapun di sektor apapun transparansi semua anggaran dan semua aset pemerintahan.
+Pentingnya pengembangan aplikasi yang bersifat open source dan dapat diakses secara publik, sehingga kode yang buruk dapat terbuka dan banyak yang dapat memberikan saran perbaikan melalui pull request.
 
-pengembangan aplikasi wajib open source dan dapat dilihat secara publik sehingga kode buruk bisa dilihat dan banyak yang bisa pull request untuk memperbaiki. 
+Literasi digital dan literasi data harus diutamakan sebagai prioritas utama.
 
-literasi digital dan literasi data nomor satu.
+How to do this?
 
-1/ first digitalizing all mosque systems, by training all outdated management system. pada sebelumnya, all things did manually and only announce only in hari2 besar. but  the new semuanya dicatat di dalam sistem, untuk menunjukkan rank tiap masjid seperti saham.
+*** Initiating the digitalization of mosque systems involves revamping outdated management processes. Previously, everything was handled manually, and announcements were limited to major events such as Jumatan, Idul Fitri, Idul Adha, etc. However, now everything is recorded within a system, showcasing the ranking of each mosque, akin to stocks.
 
-i bet their market is very high, even though not as high as stock market, ,the transparency could make society feels empower. ** ss ajaib
+I believe their market potential is substantial, though not comparable to the stock market. The transparency introduced by this digital shift can empower the community, fostering a sense of involvement.
 
-2. social credit in tingkat individu. all praise by knowledge, with basic like anies baswedan said, someone who contribute much to farm, education, they are rewarded and rank in the first, minimizing people act stupidly in tiktok and twitter (me as an example) only to gain incentive.
+-- sabrang's symbolik: bibit-bibit currency baru (*uhukkk social credit system)
 
-how about art like game that is hardly to quantify?
+2. Individual social credit is determined by one's contributions and knowledge 
+   
+Those who significantly contribute to farming and education are praised and ranked at the top, discouraging individuals from engaging in mindless activities on platforms like TikTok and Twitter solely for negative incentives."
 
-fuck art. art itself always finds its place, its rich in its own way.
+What about an art form, like a game, that defies easy quantification?
 
-3. social credit di tingkat individu itu juga membatasi individu untuk bermain dan pursuit of cheap happiness lainnya. **grafik diagram, ending game addiction and makes company collapses vs wasting young man time
+Fuck art. Art is resilient. It inherently discovers its unique space, enriched in its own distinctive ways.
 
-social status orang yg liburan ke luar negeri (tanpa tujuan penting seperti edukasi atau mempromosikan negara) direndahkan, propagandakan bahwa para tki dan eksportir sudah sulit membawa devisa ke sini, maka suatu ketoloan apabila kita liburan ke luar. 
 
-mereka wajib berinvestasi untuk membangun daerahnya masing-masing dan membangun pariwisatanya daerahnya untuk berkmebang, atau apabila ingin berlibur maksimal adalah di dalam negeri.
+*** grafik diagram, ending game addiction and makes company collapses vs wasting young man time
 
-di lingkungan masjid anak2 sedari dini bereksperimen build things dan entrepeneurship bukan hanya terbatas pada makanan dan pakaian, tapi produk2 teknologinya seperti membuat drone, cctv, produk2 iot, robot, bahkan reaktor nuklir dan inovasi lainnya yang mengatasi lingkungannya. 
+Sistem kredit sosial di tingkat individu juga dapat membatasi individu untuk bermain dan mengejar cheap happiness lainnya.
 
-setiap rt rw memiliki 'JIRA' nya masing-masing. semuanya dapat melaporkan backlog yang berupa masalah yang dihadapinya. seluruh masyarakat bisa melihat masalah itu dan apabila ingin membantu menyelesaikan masalah tersebut, credit dr contributor tersebut akan naik. 
+--- 
 
-sistem ini mendukung fitur anonimitas, sehingga apabila ada tetangga yang bakar sampah sembarangan atau dangdutan dan hajatan keras2 nutup jalan warga, orang lain bisa tau, dan pelaku dapat dikurangi credit scorenya. 
+Status sosial seseorang yang berlibur ke luar negeri (tanpa tujuan penting seperti pendidikan atau mempromosikan negara) direndahkan, dengan propaganda bahwa para TKI dan eksportir sudah kesulitan membawa devisa ke sini. 
 
-minoritas dapat memprotes berisiknya toa masjid yang berperasi di jam tidak lazim.
+Oleh karena itu, dianggap tidak bijak jika ia berlibur ke luar negeri. Individu diwajibkan berinvestasi untuk membangun daerahnya masing-masing dan mengembangkan pariwisata lokal untuk kemakmuran bersama. Jika ingin berlibur, sebaiknya dilakukan di dalam negeri.
 
-proses pengurangan credit score itu bisa bergantung pada suatu 'hakim' atau voting dan musyawarah masyarakat.
+---
 
-orang hikkikomori dapat dideteksi karena dalam sistem itu semuanya telanjang, masyarakat bisa melihat apa saja, seperti apa yang expertise dan interestnya, berapa persen waktu hidupnya yang digunakan untuk ia mengejar cita2nya atau justru terdistraksi dalam berbagai aktivitas yang tidak penting yang menjauhkannya dari minat dan bakatnya.
+Di lingkungan masjid, anak-anak sejak dini didorong untuk bereksperimen dalam membangun hal-hal dan kewirausahaan, tidak hanya terbatas pada makanan dan pakaian, tetapi juga pada produk-produk teknologi seperti membuat drone, CCTV, produk-produk IoT, robot, bahkan reaktor nuklir, dan inovasi lainnya yang dapat mengatasi tantangan lingkungan.
 
-ada wwe untuk membahas salafi vs NU, bidah dan tidak bidah. event organizer lebih kreatif ga cuman konser.
+---
 
-apabila ada pengemis, maka pengemis tersebut dilaporkan ke masjid terdekat untuk didata, lahir dimana dan bagaimana hubungan dengan keluarganya. masjid empowering agar pengemis itu bisa hidup mandiri dan terus provided kebutuhan dasarnya apabila belum dapat ahli atau masih bangkrut.
+Setiap RT dan RW memiliki platform pelaporan masalah mereka sendiri, seperti 'JIRA'. Semua orang dapat melaporkan masalah yang dihadapi, dan seluruh masyarakat dapat melihat masalah tersebut. Jika seseorang ingin membantu menyelesaikan masalah tersebut, kredit dari kontributor tersebut akan meningkat.
 
-dibandingkan bukit algortima yang mangkrak dan bersifat elitist centralistik, maka social credit system berdasarkan masjid ini sifatnya lebih decentralize dan egaliter
+Sistem ini mendukung fitur anonimitas, sehingga jika ada tetangga yang membakar sampah sembarangan atau mengadakan acara hajatan yang mengganggu, orang lain dapat mengetahuinya, dan pelaku dapat mengalami penurunan skor kredit.
 
-indonesia apabila orang2 tech dan MBA jadi marbot masjid 
+Minoritas memiliki hak untuk memprotes kebisingan toa masjid yang beroperasi pada jam tidak lazim. Proses pengurangan skor kredit dapat bergantung pada keputusan seorang 'hakim' atau melalui mekanisme voting dan musyawarah masyarakat.
 
-i want to write a novel like daerah salju yasunari kawabata, but university ruins me by mencekokiku dengan formalitas pendidikan dari kuliah metodologi mppi, so it turns out it is like dokumentasi analisis dan perancangan sistem informasi, yang gagal aku ikutkan ke gemastik di tahun pandemi karena tulisanku seperti orang obsessed terhadap sesuatu dan terlalu mabuk sehingga aku gagal marketing my ideas and objective to para sapi di rumah penggilingan. 
+---
 
-philosopher now is abundance, young tends to be more in home and give up, worlds become boring is everyone is philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i regaard and called 'home' to any place on earth which i find solace, then it means i always home because i am a cosmopolitan... thus i am a hikkikomori by nature...
+Hikkikomori dapat terdeteksi karena dalam sistem ini segalanya telanjang, memungkinkan masyarakat melihat minat dan bakatnya, seberapa banyak waktu yang dihabiskan untuk mengejar cita-citanya, atau sebaliknya, terdistraksi oleh aktivitas yang tidak penting.
 
-but even in a moderate there's always a invinsible kutub
+---
 
-invinsible hand that forces us to buy things we dont' need to impress people we dont like by money we dont have. invinsible hand that makes us believe that we are moderate while the truth, we are not. we are menyimpang, we stray further from the zero everyday 
+Terdapat platform seperti WWE untuk mendiskusikan Salafi vs NU, bid'ah & non-bid'ah. Event Organizer (EO) tidak hanya terbatas pada konser, tetapi juga mencakup hal-hal terkait ceramah, meningkatkan daya tarik dengan dakwah kreatif yang memiliki jangkauan lebih luas.
+
+---
+
+Jika ada pengemis, maka pengemis tersebut dilaporkan ke masjid/RT/RW terdekat untuk didata, termasuk tempat kelahirannya dan hubungan dengan keluarganya. Masjid memberdayakan agar pengemis dapat hidup mandiri dan terus memenuhi kebutuhan dasarnya jika belum dapat bekerja atau masih mengalami kesulitan keuangan.
+
+---
+
+Dibandingkan dengan Bukit Algoritma mangkrak sentralistik yang ketinggalan zaman dan bersifat elitist, SCS berdasarkan masjid ini bersifat lebih terdesentralisasi dan egaliter.
 
 # untuk sabda, cania, zenius
 
-salah satu hal yg jadi blind spot orang2 lib progressive macam cania, sabda, budiman, dll itu bidang agama.
+Salah satu hal yang menjadi blind spot bagi orang-orang liberal progresif seperti Cania, Sabda, Budiman, dan lain sebagainya adalah bidang agama.
 
-walaupun pak guru gembul banyak asbunnya, tapi seenggaknya dia udah berani speakup terkait hal ini.
+Meskipun Pak Guru Gembul memiliki banyak asbunnya, setidaknya dia berani speakup terkait hal ini.
 
-mereka pikir menyentuh ranah agama itu high risk jadi ga ada yg berani, dan negara2 yg advanced dan developed cenderung sekuler jadi belum ada contoh terkait aspek ini jadi reseachnya kurang.
+Mereka berpikir bahwa menyentuh ranah agama itu high risk sehingga tidak ada yang berani melakukannya, dan negara-negara maju cenderung sekuler sehingga belum ada contoh terkait aspek ini, otomatis research nya kurang.
 
-madilog tan malaka yang mendorong untuk mengurangi mistis itu ga akan berhasil. 
+Madilog Tan Malaka yang mendorong untuk mengurangi mistisisme tidak akan berhasil. Indonesia kaya akan budaya juga karena agama, sehingga jika ingin menghapus mistisisme, di mana banyak yang beririsan dengan keyakinan, justru richness nya bakal berkurang.
 
-indonesia itu rich culture karena agama jg, jadi kalo ingin dihapus justru richness bakal berkurang. 
+Maka, satu-satunya yang bisa dilakukan adalah eksploitasi agama secara positif, dan menanamkan konsep-konsep Madilog dengan dasar-dasar dalil agama.
 
-maka yg satu2nya yg bisa dilakuin itu eksploitasi agama secara positif, dan menanamkan konsep2 madilog dengan dasar basis dalil agama.
+---
 
-BPS, BPK itu ga pernah tau aliran dana di lembaga agama. 
+BPS dan BPK tidak pernah mengetahui aliran dana di lembaga agama. Lembaga Amil Zakat, dll., tidak terdeteksi.
 
-LAZ, dll, ga ketauan. 
+Bank syariah sudah mulai approach bantu donasi menggunakan QR. Tapi kalo gitu caranya, Bank BUMN itu mereka mana mau inform ke publik, yang pasti mereka harus compete, jadi pasti main rahasia-rahasiaan, dan manfaatnya tidak terlalu luas buat publik kecuali lembaga yg kerjasama sama mereka. 
 
-bank syariah udah mulai approach buat bantu donasi pake QR. tapi kalo gitu caranya, Bank BUMN itu mereka mana mau inform ke public, yg pasti mereka have to compete jadi pasti make it a secret, dan manfaatnya ga terlalu luas buat publik kecuali lembaga yg kerjasama sama mereka doang. 
+Lembaga yang paling layak untuk penetrate ranah agama adalah lembaga donasi seperti Kitabisa, dll. Tapi meskipun mereka non-profit, mereka juga membutuhkan revenue dan akan kesulitan untuk penetrate karena masih banyak tantangan di sistemnya sebelum menambahkan business process baru.
 
-lembaga yg paling feasible untuk penetrate ke ranah agama itu lembaga donasi macam kitabisa, dll tapi walaupun mereka non profit, mereka juga ttp perlu revenue dan akan kesusahan juga buat penetrate karena masih banyak pr juga di sistemnya, sebelum nambah business process baru.
+Lembaga yang berpotensi masuk sebenarnya adalah pendidikan, dari sisi urgensi dan hal-hal praktis seperti peningkatan alat-alat teknologi seperti komputer, elektronik, mesin, dll.
 
-lembaga yg berpotensi masuk sebenarnya pendidikan, dari sisi urgensi dan hal-hal praktis tinkering tools macam komputer, elektronik, mesin, dll
+Untuk membuka dan mentransparankan lembaga-lembaga agama, perlu diketahui aliran dana ke mana saja. Secara nominal, pengelolaan masjid mungkin terlihat receh, tetapi agama tidak hanya tentang masjid; ada gereja, lembaga amil zakat, dan lain sebagainya. 
 
-untuk membuka, mentransparansikan lembaga2 agama, alirannya kemana aja. 
+Secara kualitatif, banyak aspek dan faktor yang dapat diperbaiki yang tidak terlihat. Dari segi toleransi, pencegahan terorisme, kebebasan beragama dan berpendapat, kemahiran dan literasi digital, serta urgensi topik SDG yang perlu ditingkatkan.
 
-secara nominal emang mungkin receh kelolaan masjid itu, tapi agama itu ga cuman masjid, ada gereja, LAZ, dll 
+"Pencegahan terorisme" jika diumumkan oleh pemerintah di daerahmu, konotasinya buruk dan pasti banyak ketidakpercayaan dari masyarakat. Alternatif yang dapat dilakukan adalah "sosialisasi peningkatan kemampuan pengelolaan tempat ibadah", yang mencakup digitalisasi, surveilans massal, analisis jaringan siapa tokoh yang berpengaruh banyak di suatu daerah dan sumber daya mana yang digunakan, dll. Semua masyarakat dapat melihatnya, setiap kelompok, kontribusinya, kontroversinya, dibuktikan dengan data. Win win solution buat semua.
 
-secara non quantitatif, itu banyak aspek dan faktor yg bisa diimproved yg ga keliatan.
+---
 
-dr sisi toleransi, pencegahan terorisme, kebebasan beragama dan berpendapat, kemahiran dan literasi digital, urgensi topik SDG yang perlu diup
+"Competition Is for Losers", contoh produk mimicking karena envy dengan Barat tapi implementasi gerakannya lambat dan terlihat stagnan: Budiman Sujatmiko ingin membuat Silicon Valley Indonesia yang centralized dan elitist. 
 
-'pencegahan terorisme', kalo ada pemerintah ngumumin program itu di daerahmu konotasinya buruk dan pasti banyak mistrust dr masyarakat, alternatif yg bisa dilakuin adalah "sosialisasi peningkatan kemampuan pengelolaan tempat ibadah", yg didalemnya bisa dimasukin digitalisasi, mass surveillence, network analysis siapa tokoh yg influence banyak di suatu daerah dan darimana resourcenya, dll. semua masyarakat bisa lihat harusnya, setiap kelompok, kontribusinya, kontroversinya, proved by evidence.  win win solution buat semuanya pula.
+Padahal kita bisa membangun smart city yang lebih terdesentralisasi, egaliter, dengan pusatnya berasal dari tempat ibadah lokal, karang taruna, RT/RW jika kita dapat menghubungkan semua elemen ke dalam dunia digital, sehingga melibatkan tidak hanya orang-orang dengan background tech tinggi saja, tetapi semua aspek seperti agamawan juga terlibat, sehingga ada transfer pengetahuan yang baik di sana, bersifat kolaboratif. Ada reward & punishment di sistemnya agar berjalan terus.
 
-competition is for loser, contoh mimicking karena envy dengan west yg pergerakannya lambat dan terlihat stagnan: budiman sujatmiko, ingin bikin silicon valley indonesia yg centralized dan elitist. padahal kita bisa bangun smart city yg lebih decentralized, egaliter, yg pusatnya itu dari tempat2 ibadah lokal/karang taruna/rt/rw kalo kita bisa connect semua elemen ke digital, sehingga bisa melibatkan tidak hanya orang2 yg punya background tech tinggi saja, tapi semua aspek seperti agamawan dilibatkan, sehingga ada transfer knowledge yang baik disana, sifatnya kolaboratif. ada reward & punishment di sistemnya biar jalan terus.
+---
 
-yg ceramah periodiknya disesuaikan dengan topik urgen yang mendasar mirip di masjid2 kampus, semacam basmi judi online, kecanduan sosmed, pengurangan sampah plastik, edukasi para lansia yg gagap teknologi. sehingga orang2 daerah gaperlu jauh2 ke ibu kota untuk cari penghidupan yg layak. semuanya punya pusat ekonominya masing-masing, community & friendship yg long term, bisa bangun tempat wisata yg beragam di daerahnya sehingga ongkos mobilisasi bisa dikurangi dan bisa fokus untuk berinovasi dan solving problems for improvement.
+Ceramah periodik disesuaikan dengan topik yang mendesak dan mendasar seperti di masjid-masjid kampus, seperti 
 
-digitalisasi ini cmn bisa kalo para sepuh berani ngaku kalo mereka obsoleted, terbuka dengan kaderisasi dan regerenasi manajemen, membuka dan mempersilakan akses ke pemuda untuk bisa kreatif mengelola. dan pemudanya perlu humbled dengan terus komunikasi dengan old generation agar mereka tidak ngerasa tidak dibutuhkan, agar semuanya bisa berpartisipasi aktif.
+- memberantas judi online, 
+- ketergantungan media sosial, 
+- pengurangan sampah plastik, 
+- edukasi lansia yang tidak terbiasa dengan teknologi, dll 
+  
+Sehingga orang-orang di daerah tidak perlu pergi jauh-jauh ke ibu kota untuk mencari kehidupan yang layak. 
+
+- Semuanya memiliki pusat ekonomi masing-masing, 
+- komunitas & persahabatan yang berkelanjutan, 
+- dapat membangun berbagai tempat wisata di daerahnya sehingga biaya mobilitas dapat dikurangi,
+- dan dapat fokus untuk berinovasi dan memecahkan masalah untuk improvement semua aspek.
+
+Digitalisasi ini hanya dapat terjadi jika para sepuh berani mengakui bahwa mereka sudah ketinggalan zaman, terbuka terhadap kaderisasi dan regenerasi manajemen, serta membuka dan menyediakan akses kepada generasi muda untuk dapat mengelola dengan kreatif. Generasi muda perlu berkomunikasi dengan generasi tua agar mereka merasa dibutuhkan, sehingga semua orang dapat berpartisipasi aktif.
 
 # cerpen
 Bayangkan masjid sudah terdigitalisasi. 
 
 ||| Pengemis
-```
+
 Ada pengemis meminta uang, kamu langsung cek web SIMAS hasil dari kerjasama Kementerian Agama dan Kementerian Sosial, 
 
 "Oh ini pak, di masjid ini keuangannya ada segini. Coba cek kesana untuk minta bantuan"
@@ -134,7 +154,9 @@ Setiap masjid memiliki peringkatnya masing-masing. Laporan keuangannya transpara
 
 Cashflow setiap nya terlihat pada aplikasi SIMAS beserta rinciannya sehingga dapat dilakukan pemeringkatan berdasarkan keefektifannya. Keefektifan suatu masjid dapat diukur berdasarkan kualitas manusia di daerah tersebut. 
 
-Kualitas manusia diukur secara relevan berdasarkan bidangnya masing-masing. Tiap bidang memiliki kumpulan orang yang paling produktif dan kompeten yang diurutkan berdasarkan voting oleh masyarakat di luar maupun dalam bidang tersebut mengenai kontribusi orang tersebut pada bidangnya. ```
+Kualitas manusia diukur secara relevan berdasarkan bidangnya masing-masing. Tiap bidang memiliki kumpulan orang yang paling produktif dan kompeten yang diurutkan berdasarkan voting oleh masyarakat di luar maupun dalam bidang tersebut mengenai kontribusi orang tersebut pada bidangnya.
+
+---
 
 Para pemuda masjid aktif dalam menyelesaikan berbagai problematika di sekitar masjid tersebut. Apabila terdapat masalah, masyarakat bisa melaporkan tiket pada sistem masjid sehingga nanti masalahnya dapat diselesaikan secara musyawarah atau voting apabila tidak memungkinkan. 
 
@@ -165,7 +187,7 @@ Orang yang dikafirkan pun tetap merasa mereka paling benar karena berdasarkan ko
 
 Pada setiap perdebatan semua pihak dikumpulkan, dan para jamaah menonton perdebatan itu mirip seperti suporter bola, mendukung dengan antusias dai yang diikutinya. Meskipun tidak ada pemenang dalam perdebatan, setelah usai perdebatan itu semua jamaah saling berpelukan dan bersalaman. Apabila ada yang tidak ikut berpelukan atau bersalaman pun tidak masalah, semuanya saling menghormati pilihan lainnya. Ada sedikit kebencian yang terpendam terhadap perbedaan kelompok tersebut. Tapi kebencian tersebut bersifat ilusif karena tersimpan dalam ide dan dada. Apabila kebencian tersebut berubah menjadi suatu hal yang fisik, maka pihak keamanan seperti polisi akan turun tangan untuk melerai kedua pihak yang beradu fisik tersebut. 
 
-Polisi tidak hanya diharuskan untuk punya fisik yang kuat, tetapi juga kemampuan untuk melakukan negosiasi dalam mendamaikan kedua pihak yang beradu fisik. Para polisi melakukan psyop dan menggiring mindset semua pihak yang terlibat dalam masalah fisik agar mereka akhirnya hanya bentrok melalui ide saja, sehingga tidak akan pernah terjadi kerusakan yang terlihat. Namun, ,apabila mereka tetap ingin beradu lewat fisik, polisi menyediakan sarana olahraga yang aman untuk mereka beradu fisik. Dengan demikian, proses pembangunan dapat terus berjalan untuk mewujudkan cita-cita rakyat. 
+Polisi tidak hanya diharuskan untuk punya fisik yang kuat, tetapi juga kemampuan untuk melakukan negosiasi dalam mendamaikan kedua pihak yang beradu fisik. Para polisi melakukan psyop dan menggiring mindset semua pihak yang terlibat dalam masalah fisik agar mereka akhirnya hanya bentrok melalui ide saja, sehingga tidak akan pernah terjadi kerusakan yang terlihat. Namun,apabila mereka tetap ingin beradu lewat fisik, polisi menyediakan sarana olahraga yang aman untuk mereka beradu fisik. Dengan demikian, proses pembangunan dapat terus berjalan untuk mewujudkan cita-cita rakyat. 
 
 Orang Syiah dan Sunni saling berhadap-hadapan. Orang Sunni berkata ke orang Syiah, 
 
@@ -215,3 +237,12 @@ Bagaimana surga menurut anda
 
 Bagaimana hidup selamanya menurut anda.
 
+
+---
+epilog
+
+i want to write a novel like daerah salju yasunari kawabata, but university ruins me by mencekokiku dengan formalitas pendidikan dari kuliah metodologi MPPI, so it turns out it is like dokumentasi analisis dan perancangan sistem informasi, yang gagal aku ikutkan ke Gemastik di tahun pandemi karena tulisanku seperti orang obsessed terhadap sesuatu dan terlalu mabuk sehingga aku gagal marketing my ideas and objective to para sapi di rumah penggilingan. 
+
+philosopher now is abundance, young tends to be more in home and give up, worlds become boring is everyone is philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i regard and called 'home' to any place on earth which i find serenity meskipun itu di toilet mall atau kuburan, then it means i always in home because i am a cosmopolitan... thus i am a hikkikomori by nature... 
+
+even in a moderate way sekalipun there's always a invinsible kutub. "invinsible hand that forces us to buy things we dont' need to impress people we dont like by money we dont have". invinsible hand that makes us believe that we are moderate while the truth, we are not. we are menyimpang, we stray further from the zero everyday.
