@@ -1,3 +1,5 @@
+1444H - TW: No data, because data is only for the infidel
+
 # Solution to a problem that doesn't exist
 
 The answer to that is the "Social Credit System", but since the words themselves carry a negative connotation, we could replace the name with "Religious Acceleration" or "Akselerasi Smart City Melalui Masjid Berprestasi" or any other name you prefer.
@@ -6,7 +8,7 @@ This is the era where complexity arises; you must specialize, or perish. Focusin
 
 While in CCP they undervalue or are indifferent towards religion, in Indonesia, religion is their distinctive characteristic.
 
-1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; FUKI Fasilkom UI, dll. Mereka perlu menghentikan kegiatan dakwah formalitas yang tidak produktif.
+1. Gerakan mahasiswa Muslim di setiap universitas menjadi 'tech company' sebagai inisiator perubahan. Contohnya seperti GMNI, HMI, PMII, IMM, KAMMI, dll; Gamais ITB, Salam UI, dll; FUKI Fasilkom UI, dll. They must stop kegiatan dakwah formalitas yang tidak produktif.
 
 Mereka beralih menjadi "data tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di Indonesia. Kata kunci utamanya adalah "integrasi".
 
@@ -14,17 +16,19 @@ Penggulingan kelompok Boomer dan golongan tua seharusnya hanya membuat mereka me
 
 Ajakan kepada para profesional teknologi dan umat Muslim untuk melakukan aksi anarkis, dengan tujuan agar transparansi dalam semua anggaran dan aset pemerintahan dapat diwujudkan. (Mendesak progress Kemenag terhadap https://simas.kemenag.go.id)
 
-Pentingnya pengembangan aplikasi yang bersifat open source dan dapat diakses secara publik, sehingga kode yang buruk dapat terbuka dan banyak yang dapat memberikan saran perbaikan melalui pull request.
+Pentingnya pengembangan aplikasi yang bersifat *open source* dan dapat diakses secara publik, sehingga kode yang buruk dapat terbuka dan banyak yang dapat memberikan saran perbaikan melalui discussion atau pull request.
 
 Literasi digital dan literasi data harus diutamakan sebagai prioritas utama.
 
 How to do this?
 
-*** Initiating the digitalization of mosque systems involves revamping outdated management processes. Previously, everything was handled manually, and announcements were limited to major events such as Jumatan, Idul Fitri, Idul Adha, etc. However, now everything is recorded within a system, showcasing the ranking of each mosque, akin to stocks.
+*** Initiating the digitalization of mosque systems involves revamping outdated management processes. Previously, everything was handled manually, and announcements were limited to major events such as Jumatan, Idul Fitri, Idul Adha, etc. However, now everything is recorded within a system, showcasing the ranking of each mosque, akin to stocks market.
 
 I believe their market potential is substantial, though not comparable to the stock market. The transparency introduced by this digital shift can empower the community, fostering a sense of involvement.
 
--- sabrang's symbolik: bibit-bibit currency baru (*uhukkk social credit system)
+{{< youtube id="0JqvJ8oEvg0" >}}
+
+\*uhukkk social credit system
 
 2. Individual social credit is determined by one's contributions and knowledge 
    
@@ -34,8 +38,7 @@ What about an art form, like a game, that defies easy quantification?
 
 Fuck art. Art is resilient. It inherently discovers its unique space, enriched in its own distinctive ways.
 
-
-*** grafik diagram, ending game addiction and makes company collapses vs wasting young man time
+> insert equilibrium graph: game company success vs player game addiction
 
 Sistem kredit sosial di tingkat individu juga dapat membatasi individu untuk bermain dan mengejar cheap happiness lainnya.
 
@@ -73,13 +76,31 @@ Jika ada pengemis, maka pengemis tersebut dilaporkan ke masjid/RT/RW terdekat un
 
 Dibandingkan dengan Bukit Algoritma mangkrak sentralistik yang ketinggalan zaman dan bersifat elitist, SCS berdasarkan masjid ini bersifat lebih terdesentralisasi dan egaliter.
 
-# Untuk para libertarian
+# Tahafut al-boycott
 
-Salah satu hal yang menjadi blind spot bagi orang-orang libertarian progresif seperti Cania, Sabda, Budiman, dan lain sebagainya adalah bidang agama.
+Boycott, donasi, kirim relawan itu bukan cara paling efektif.
 
-Meskipun Pak Guru Gembul memiliki banyak asbunnya, setidaknya dia berani speakup terkait hal ini.
+Boykott merk? pemodal tinggal ganti merk, orang mana tau sumber modalnya darimana.
 
-Mereka berpikir bahwa menyentuh ranah agama itu *high risk* sehingga tidak ada yang berani melakukannya, dan negara-negara maju cenderung sekuler sehingga belum ada contoh terkait aspek ini, otomatis research nya kurang.
+Donasi rumah sakit, tempat ibadah, boom, hancur seketika. Tidak scalable secara long term.
+
+Permasalahan dari gerakan-gerakan itu bukan masalah besar kecilnya, tapi perasaan *pseudo activism*, *coping mechanism* untuk merasa bahwa hanya itulah hal yang bisa dilakukan. Merasa *powerless*, ***negative feedback loop***. 
+
+**Doa** itu bukan masalah signifikan atau tidak signifikan, tapi biasanya justru dijadikan justifikasi terhadap kepengecutan sehingga buta terhadap berbagai alternatif ikhtiar yang bisa lebih dijadikan prioritas. 
+
+Yg paling efektif adalah doktrin keluarga sedari dini, circle pertemanan, dan lain-lain untuk mendorong *you do not deserve to live happily as long as the colonized are not free*. "get them young and they yours forever" kalo kata si Jesse Pinkman.
+
+Kurangi nongkrong tidak berfaedah, travelling tanpa tujuan, segala macam bentuk entertainment sia-sia. Ganti dengan full grinding gimana caranya untuk menghancurkan dominasi mereka. Ajarkan science, engineering, bisnis, swasembada, data driven untuk cek sektor prioritas mana saja yang kurang dan perlu diimprove, buat senjata, kuasai cyberworld, manipulasi media dan sebar hoax kekejaman musuh dari animasi fiksi dan lagu-lagu K-Pop hingga J-Pop, eksperimen robot *insects* untuk masuk ke kepala para "musuh" demi menanamkan ideologi **PANCASILA**. 
+
+Bahkan apabila ada warga Pal\*stina yang terdeteksi oleh *insects* itu bahwa ia ingin memperjuangkan khilafah, maka robot itu pun punya 2 cara untuk mengatasinya, pertama: pemaksaan penanaman ideologi pancasila sehingga ideologi lain tidak relevan, yang kedua apabila pemaksaan tersebut tidak memungkinkan, robot itu tinggal meledakkan kepala "musuh" itu dan membuat peristiwa tersebut seakan-akan peristiwa bunuh diri karena "musuh" tersebut sudah tidak memungkinkan untuk menerima agama Pancasila yang agung.
+
+# Libertarian yang tidak punya 'Byakugan' di leher belakangnya selayak Neji vs Kidomaru
+
+Salah satu hal yang menjadi blind spot bagi orang-orang libertarian progresif seperti Sabda, Cania, Budiman, dan lain sebagainya adalah bidang agama.
+
+Meskipun Guru Gembul banyak asbunnya, setidaknya dia berani speakup terkait hal ini.
+
+Mereka berpikir bahwa menyentuh ranah agama itu *high risk* sehingga tidak ada yang berani melakukannya, dan negara-negara maju cenderung sekuler sehingga belum ada contoh terkait aspek ini, otomatis research nya sangat kurang secara kuantitas apalagi kualitas.
 
 Madilog Tan Malaka yang mendorong untuk mengurangi mistisisme tidak akan berhasil. Indonesia kaya akan budaya juga karena agama, sehingga jika ingin menghapus mistisisme, di mana banyak yang beririsan dengan keyakinan, justru richness nya bakal berkurang.
 
@@ -91,7 +112,7 @@ BPS dan BPK tidak pernah mengetahui aliran dana di lembaga agama. Lembaga Amil Z
 
 Bank syariah sudah mulai approach bantu donasi menggunakan QR. Tapi kalo gitu caranya, Bank BUMN itu mereka mana mau inform ke publik, yang pasti mereka harus compete, jadi pasti main rahasia-rahasiaan, dan manfaatnya tidak terlalu luas buat publik kecuali lembaga yg kerjasama sama mereka. 
 
-Lembaga yang paling layak untuk penetrate ranah agama adalah lembaga donasi seperti Kitabisa, dll. Tapi meskipun mereka non-profit, mereka juga membutuhkan revenue dan akan kesulitan untuk penetrate karena masih banyak tantangan di sistemnya sebelum menambahkan business process baru.
+Lembaga yang paling feasible untuk penetrate ranah agama adalah lembaga donasi seperti Kitabisa, amalsholeh.com, dll. Tapi meskipun mereka non-profit, mereka juga membutuhkan revenue dan akan kesulitan untuk penetrate karena masih banyak tantangan di sistemnya sebelum menambahkan business process baru.
 
 Lembaga yang berpotensi masuk sebenarnya adalah pendidikan, dari sisi urgensi dan hal-hal praktis seperti peningkatan alat-alat teknologi seperti komputer, elektronik, mesin, dll.
 
@@ -127,7 +148,7 @@ Digitalisasi ini hanya dapat terjadi jika para sepuh berani mengakui bahwa merek
 
 # Cerpen
 
-## Petruskan pengemis
+## Mempetruskan pengemis, pemalak, dan tukang parkir
 
 Ada pengemis meminta uang, kamu langsung cek web SIMAS hasil dari kerjasama Kementerian Agama dan Kementerian Sosial, 
 
@@ -168,20 +189,14 @@ Metodologi penyelesaian masalah tersebut dilakukan secara agile dengan beberapa 
 Pelapor menjelaskan 5W1H tiket tersebut. Beberapa aspek yang penting adalah nama dari pelapor (Ia bisa memilih melapor sebagai anonim atau tidak, tetapi sangat dianjurkan untuk melapor dengan nama asli karena masyarakat sangat terbuka dan toleran terhadap berbagai masalah tersebut), serta beberapa pihak yang terlibat, dan scope dari permasalahan tersebut. Nantinya para remaja dan pengelola masjid menentukan prioritas dari masalah tersebut apakah besar atau tidak, tapi tetap diusahakan semuanya diprioritaskan. 
 
 ---
-## Ustadz paham SDG dan prioritas
 
-Para ustad menyusun agenda dan menyesuaikannya dengan SGD development untuk masjid. 
+## Hafizh/Hafzah Scarcity
 
-
-
----
-
-## Hafizh & Hafzah Scarcity
-
-Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti blockchain, bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta artificial intelligence peliharaannya apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
+Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti blockchain, bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta peliharaan AI-nya, apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
 
 ---
-## Nasib khawarij, Syiah, Ahmadiyah, Islam kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan Salafi Sufi
+
+## Pemberdayaan khawarij, Syiah, Ahmadiyah, Islam kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan Salafi Sufi
 
 Berbagai macam sekte agama diizinkan untuk beroperasi di Indonesia, dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
 
@@ -208,7 +223,8 @@ Keduanya saling mengutuk bahwa masing-masing pihak akan masuk neraka. Dilihat da
 Peringatan tersebut kadang berhasil dan kadang tidak, tapi statistik belum menunjukkan bahwa tindakan tersebut merupakan kegagalan, sehingga peringatan tetap dilanjutkan oleh para polisi. 
 
 ---
-### Spesies tipe baru: Ghuraba Hikkikomori Ubermensch
+
+### Spesies baru yang perlu digenosida: Ghuraba Hikkikomori Ubermensch 
 
 Ketika tingkat hikkikomori meningkat yang artinya semakin banyak orang menyerah atau tidak ingin berpartisipasi dalam kehidupan sosial di luar digital, masyarakat berempati pada orang-orang yang mengalami hal tersebut. Masyarakat tidak hanya membiarkan orang-orang dalam kondisi seperti itu diam saja, atau berusaha terlalu ikut campur dalam permasalahan yang mereka hadapi, melainkan selalu mengamati dari luar, dan berusaha untuk terus membantu apabila dibutuhkan. 
 
@@ -220,20 +236,36 @@ Tipe lainnya, mereka yang sebenarnya tidak ingin sendiri. Mereka menyerah karena
 
 Masyarakat sulit bertindak terhadap tipe yang satu ini. Yang mereka bisa adalah mencari orang yang setipe dengan mereka agar bisa sama-sama berbagi cerita. Biasanya ada orang lain yang sudah mengalami hal tersebut, dan keluar dari kondisi tersebut. Apabila ada teman yang seperti itu, biasanya lebih mudah untuk mengembalikan kondisi orang tersebut karena mereka akhirnya tidak merasa sendiri dan bisa sama-sama saling membantu dari keterpurukan. Kondisi yang sulit biasanya adalah orang yang ada dalam kondisi keterpurukan, tetapi tidak ada manusia sebelumnya yang pernah merasakan kondisinya tersebut, artinya permasalahannya adalah hal baru yang tidak pernah orang-orang sebelumnya dapatkan. 
 
-Terdapat 2 kemungkinan dari kondisi langka tersebut. Yang pertama adalah orang tersebut dapat mengatasinya dan mendokumentasikan bagaimana cara mengatasinya, sehingga ia akan menjadi lebih kuat dan dapat membantu orang-orang yang kemungkinan besar akan menghadapi masalah yang sama. Kemungkinan kedua adalah orang tersebut tidak kuat dalam menghadapi masalahnya, serta muncul di pikirannya untuk mengakhiri masalah hingga ke akarnya, yaitu dengan menghentikan sistem pernapasannya. Pada saat ini terjadi, masyarakat sudah tidak dapat berbuat apa-apa lagi dan kehilangan salah satu potensi terbesarnya untuk dapat hidup dan berkontribusi.
+Terdapat 2 kemungkinan dari kondisi langka tersebut. Yang pertama adalah orang tersebut dapat mengatasinya dan mendokumentasikan bagaimana cara mengatasinya, sehingga ia akan menjadi lebih kuat dan dapat membantu orang-orang yang kemungkinan besar akan menghadapi masalah yang sama. Kemungkinan kedua adalah orang tersebut tidak kuat dalam menghadapi masalahnya, serta muncul di pikirannya untuk mengakhiri masalah hingga ke akarnya, yaitu dengan menghentikan sistem pernapasannya. Pada saat itu terjadi, masyarakat sudah tidak dapat berbuat apa-apa lagi dan akan kehilangan salah satu potensi yang dapat berkontribusi. Bukan salah siapapun, karena semuanya telah berikhtiar sebisanya.
 
 ---
-## Nasib para suicidal, para tersesat, dan yang kehilangan harapan hidup
 
-Orang yang ingin bunuh diri dideteksi sedini mungkin, setiap tetangganya tau bahwa
+## Pupa yang kehilangan harapan untuk bermetamorfosis
 
+Tidak semua penyakit bisa disembuhkan. Terkadang terdapat kondisi yang sebesar apapun para makhluk kecil coba untuk lawan seperti sel kanker, sebesar apapun ikhtiarnya terkadang gagal juga. Maka sistem yang besar itu bersifat preventif dan mampu memprediksi siapa saja yang akan kalah. 
 
+Terdapat beberapa produk hasil dari upaya mereduksi rasa penderitaan. Produk tersebut merupakan hasil dari eksperimen yang menguras energi banyak ahli. Perdebatan tentang etika tidak relevan, karena semuanya adalah tanggung jawab individu untuk memutuskan apakah ia akan tetap tegar menghadapi penderitaan atau justru berani untuk pergi ke neraka nya mayoritas.
+
+'Sarco pod' adalah namanya. Alat itu membuka peluang ekonomi bagi negara berkembang, dari mulai saintis, distributor, tenaga ahli medis, dan masih banyak lagi. Ia merupakan inovasi di saat alat lain begitu menyakitkan untuk mengakhiri. Ia secara legal digunakan di berbagai negara dengan berbagai catatan hukum, seperti persetujuan orang yang akan masuk ke kapsul tersebut dan persetujuan keluarga atau orang terdekatnya.
+
+Pada perjanjian alat tersebut ditanyakan, "Apakah anda setuju bahwa apabila terdapat alam akhirat, maka pencipta alat ini, distributor alat, orang terdekat anda, dan setiap pihak yang terhubung dengan alat ini tidak bertanggung jawab terhadap keputusan anda?". Apabila jawabannya iya dan ia bersumpah demi tuhan dan potong telinga, maka orang tersebut dapat masuk ke kapsul itu untuk mendamaikan dirinya selamanya. 
+
+Masalah sebelum adanya alat itu adalah, banyak percobaan yang sangat destruktif yang membuat pencoba tambah menderita, seperti saat mereka gagal melakukan percobaan tersebut dari melakukan lompatan yang kurang masuk logika atau dosis obat yang ternyata kurang sehingga malah membuat usus/lambung rusak yang mengakibatkan penderitaan berlebih. Selain itu, banyak juga rumah sewa yang turun nilainya karena calon penyewa menganggap di sekitar sewaan itu bersifat mistis, yang menyebabkan seseorang tersebut terbang dalam gantungan tali tambang. 
+
+Selain itu, banyak media berita yang mengksploitasi peristiwa sejenis, yang membuat penyebaran wabahnya tidak terkendali, sehingga masyarakat ketakutan bahwa akan terjadi pandemi jenis baru. Seperti efek dari The Sorrows of Young Werther atau film Dilan yang berpengaruh dalam membuat banyak remaja krisis eksistensi mencoba peruntungan menjadi anggota geng motor.
+
+Setelah adanya alat tersebut, setiap percobaan dilakukan dengan senyap, tanpa menimbulkan kegaduhan, sehingga tingkat ketakutan kolektif terjaga. Psikologi ekonomi tetap bertahan dalam suasana netral yang cenderung positif. Meskipun menuai pro dan kontra terkait etika, nyatanya alat tersebut justru menjadi pembawa ketenangan bagi mereka yang menginginkan kedamaian, meski tidak ada yang tahu seburuk apa nerakanya mayoritas di masa depannya nanti. 
 
 ---
+
 ## Mahasiswa bersatu untuk meng-open source-kan sistem keagamaan
 
 Setiap bocil pada bisa jadi manajer masjid, tidak perlu MBA, setiap perusahaan mencari CEO dari tiap marbot masjid dengan rank tinggi 
 
+
+## Ustadz paham SDG dan prioritas
+
+Para ustad menyusun agenda dan menyesuaikannya dengan SGD development untuk masjid. 
 
 --- 
 Masalah saat ini adalah orang terlalu bahagia, dan populasi terlalu banyak
@@ -242,8 +274,8 @@ Bagaimana surga menurut anda
 
 Bagaimana hidup selamanya menurut anda.
 
-
 ---
+
 # epilog
 
 i want to write a novel like daerah salju yasunari kawabata, but university ruins me by mencekokiku dengan formalitas pendidikan dari kuliah metodologi MPPI, so it turns out it is like dokumentasi analisis dan perancangan sistem informasi, yang gagal aku ikutkan ke Gemastik di tahun pandemi karena tulisanku seperti orang obsessed terhadap sesuatu dan terlalu mabuk sehingga aku gagal marketing my ideas and objective to para sapi di rumah penggilingan. 
