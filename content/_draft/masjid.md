@@ -1,4 +1,4 @@
-1444H - TW: No data, because data is only for the infidel
+1445H - TW: No data, as data is only for the infidel.
 
 # Solution to a problem that doesn't exist
 
@@ -12,7 +12,7 @@ While in CCP they undervalue or are indifferent towards religion, in Indonesia, 
 
 Mereka beralih menjadi "data tech organization" yang berusaha mendata dan memprogandakan ke remaja SMA SMP untuk merevolusi setiap masjid di Indonesia. Kata kunci utamanya adalah "integrasi".
 
-Penggulingan kelompok Boomer dan golongan tua seharusnya hanya membuat mereka menjadi penasihat, sementara regenerasi dan peningkatan terus berlangsung di masjid-masjid inovatif.
+Penggulingan kelompok Boomer dan golongan tua seharusnya hanya membuat mereka menjadi penasihat, sementara regenerasi dan kaderisasi terus berlangsung di masjid-masjid inovatif.
 
 Ajakan kepada para profesional teknologi dan umat Muslim untuk melakukan aksi anarkis, dengan tujuan agar transparansi dalam semua anggaran dan aset pemerintahan dapat diwujudkan. (Mendesak progress Kemenag terhadap https://simas.kemenag.go.id)
 
@@ -28,7 +28,7 @@ I believe their market potential is substantial, though not comparable to the st
 
 {{< youtube id="0JqvJ8oEvg0" >}}
 
-\*uhukkk social credit system
+Sabrang's Symbolic -> \*uhukkk social credit system
 
 2. Individual social credit is determined by one's contributions and knowledge 
    
@@ -184,7 +184,7 @@ Para pemuda masjid aktif dalam menyelesaikan berbagai problematika di sekitar ma
 
 Metodologi penyelesaian masalah tersebut dilakukan secara agile dengan beberapa sprint. Beberapa tiket masalah yang pernah didaftarkan adalah anak kecanduan main game online, mikrofon masjid yang sangat mengganggu di luar jam solat wajib, banyak sampah plastik, tumpukan sampah yang dibuang sembarangan, tetangga yang sering membakar sampah, setelan musik yang menyebabkan polusi suara. 
 
-*** insert gambar tiket PM
+> insert picture: backlog, todo, in progress, done 
 
 Pelapor menjelaskan 5W1H tiket tersebut. Beberapa aspek yang penting adalah nama dari pelapor (Ia bisa memilih melapor sebagai anonim atau tidak, tetapi sangat dianjurkan untuk melapor dengan nama asli karena masyarakat sangat terbuka dan toleran terhadap berbagai masalah tersebut), serta beberapa pihak yang terlibat, dan scope dari permasalahan tersebut. Nantinya para remaja dan pengelola masjid menentukan prioritas dari masalah tersebut apakah besar atau tidak, tapi tetap diusahakan semuanya diprioritaskan. 
 
@@ -224,7 +224,7 @@ Peringatan tersebut kadang berhasil dan kadang tidak, tapi statistik belum menun
 
 ---
 
-### Spesies baru yang perlu digenosida: Ghuraba Hikkikomori Ubermensch 
+### Spesies baru yang perlu dig*nosida: Ghuraba Hikkikomori Ubermensch 
 
 Ketika tingkat hikkikomori meningkat yang artinya semakin banyak orang menyerah atau tidak ingin berpartisipasi dalam kehidupan sosial di luar digital, masyarakat berempati pada orang-orang yang mengalami hal tersebut. Masyarakat tidak hanya membiarkan orang-orang dalam kondisi seperti itu diam saja, atau berusaha terlalu ikut campur dalam permasalahan yang mereka hadapi, melainkan selalu mengamati dari luar, dan berusaha untuk terus membantu apabila dibutuhkan. 
 
@@ -240,7 +240,7 @@ Terdapat 2 kemungkinan dari kondisi langka tersebut. Yang pertama adalah orang t
 
 ---
 
-## Pupa yang kehilangan harapan untuk bermetamorfosis
+## Pupa yang kehilangan nafsu untuk bermetamorfosis
 
 Tidak semua penyakit bisa disembuhkan. Terkadang terdapat kondisi yang sebesar apapun para makhluk kecil coba untuk lawan seperti sel kanker, sebesar apapun ikhtiarnya terkadang gagal juga. Maka sistem yang besar itu bersifat preventif dan mampu memprediksi siapa saja yang akan kalah. 
 
