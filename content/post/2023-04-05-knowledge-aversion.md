@@ -9,6 +9,7 @@ title: Knowledge Aversion or The Dawn of Pacman
 
 > Prompt: make a text/rhyme by theme the dawn of ":v" emoticon with will hunting's fixed mindset, peter thiel's frivolity, zizek's indefinite pessimism, and end it with a little bit of cak nun's faith style.
 
+```text
 What's next after Faustian bargaining
 The antics of Silenus
 The quantum entanglement
@@ -39,6 +40,7 @@ Express the unfreedom not with the language, but rather with the belief of music
 To sweep the corrupt is to against variety using knowledge, which is limited by wisdom (pandemic, nuclear, AI, molecular nanotech). It is the same as empowering the Luddites. Condemn all with freedom!
 
 Boredom can pretend they don't need the game, but only when they are sick they truly realize they can't escape the game. Since in praise of idleness is a loss aversion, it's time to do subtraction over addition, forget all the before and above, search among the probabilities 0.01369863, tazkiyatunnafs, music and dance 5 times a day for a lifetime, wallahu a'lam.
+```
 
 ---
 

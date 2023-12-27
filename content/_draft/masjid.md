@@ -1,6 +1,6 @@
 1445H - TW: No data, as data is only for the infidel.
 
-# Solution to a problem that doesn't exist
+### Solution to a problem that doesn't exist
 
 The answer to that is the "Social Credit System", but since the words themselves carry a negative connotation, we could replace the name with "Religious Acceleration" or "Akselerasi Smart City Melalui Masjid Berprestasi" or any other name you prefer.
 
@@ -76,7 +76,7 @@ Jika ada pengemis, maka pengemis tersebut dilaporkan ke masjid/RT/RW terdekat un
 
 Dibandingkan dengan Bukit Algoritma mangkrak sentralistik yang ketinggalan zaman dan bersifat elitist, SCS berdasarkan masjid ini bersifat lebih terdesentralisasi dan egaliter.
 
-# Tahafut al-boycott
+### Tahafut al-boycott
 
 Boycott, donasi, kirim relawan itu bukan cara paling efektif.
 
@@ -94,7 +94,7 @@ Kurangi nongkrong tidak berfaedah, travelling tanpa tujuan, segala macam bentuk 
 
 Bahkan apabila ada warga Pal\*stina yang terdeteksi oleh *insects* itu bahwa ia ingin memperjuangkan khilafah, maka robot itu pun punya 2 cara untuk mengatasinya, pertama: pemaksaan penanaman ideologi pancasila sehingga ideologi lain tidak relevan, yang kedua apabila pemaksaan tersebut tidak memungkinkan, robot itu tinggal meledakkan kepala "musuh" itu dan membuat peristiwa tersebut seakan-akan peristiwa bunuh diri karena "musuh" tersebut sudah tidak memungkinkan untuk menerima agama Pancasila yang agung.
 
-# Libertarian yang tidak punya 'Byakugan' di leher belakangnya selayak Neji vs Kidomaru
+### Libertarian yang tidak punya 'Byakugan' di leher belakangnya mirip Neji vs Kidomaru
 
 Salah satu hal yang menjadi blind spot bagi orang-orang libertarian progresif seperti Sabda, Cania, Budiman, dan lain sebagainya adalah bidang agama.
 
@@ -148,7 +148,7 @@ Digitalisasi ini hanya dapat terjadi jika para sepuh berani mengakui bahwa merek
 
 # Cerpen
 
-## Mempetruskan pengemis, pemalak, dan tukang parkir
+### Mempetruskan pengemis, pemalak, dan tukang parkir
 
 Ada pengemis meminta uang, kamu langsung cek web SIMAS hasil dari kerjasama Kementerian Agama dan Kementerian Sosial, 
 
@@ -178,7 +178,7 @@ Kualitas manusia diukur secara relevan berdasarkan bidangnya masing-masing. Tiap
 
 ---
 
-## Marbot masjid sebagai dream job dan profesi idaman
+### Marbot masjid sebagai dream job dan profesi idaman
 
 Para pemuda masjid aktif dalam menyelesaikan berbagai problematika di sekitar masjid tersebut. Apabila terdapat masalah, masyarakat bisa melaporkan tiket JIRA pada sistem masjid sehingga nanti masalahnya dapat diselesaikan secara musyawarah atau voting apabila tidak memungkinkan. 
 
@@ -190,13 +190,13 @@ Pelapor menjelaskan 5W1H tiket tersebut. Beberapa aspek yang penting adalah nama
 
 ---
 
-## Hafizh/Hafzah Scarcity
+### Hafizh/Hafzah Scarcity
 
 Yang boleh menjadi penghafal quran hanyalah yang sudah menguasai bahasa arab, tafsir, dan mampu membuktikan track record-nya bahwa dia adalah orang yang alim dan baik. Tidak ada lagi yang mau menjadi penghafal Al-Qur'an karena Al-Qur'an telah dibuktikan tidak akan hilang dari ingatan. Terdapat muslim ahli komputasi sains yang memastikan semuanya dapat disalin ke teknologi dengan berbasis jaringan seperti blockchain, bahkan para ahli neuroscience dan para arsitek high performance distributed system sedang meneliti cara menanamkan Al-Quran ke otak dan sistem saraf para muslim secara permanen agar dapat mendikte setiap muslim untuk berperilaku sesuai Al-Qur’an dan sunnah sehingga menjadi hamba Allah yang beriman dan bertaqwa. Meskipun begitu, penelitian tersebut masih menjadi wacana dan perdebatan di kalangan ahli, karena selain sangat sulit dan mahal untuk dilakukan, beberapa pihak menyatakan bahwa hal tersebut tidak sesuai secara etika dan masih didiskusikan oleh para ulama beserta peliharaan AI-nya, apakah penelitian tersebut termasuk perbuatan melampaui batas atau tidak.
 
 ---
 
-## Pemberdayaan khawarij, Syiah, Ahmadiyah, Islam kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan Salafi Sufi
+### Pemberdayaan khawarij, Syiah, Ahmadiyah, Islam kejawen, Penyembah Nyi Roro Kidul, Batu Akik, dan Salafi Sufi
 
 Berbagai macam sekte agama diizinkan untuk beroperasi di Indonesia, dan tidak ada permasalahan kekerasan atau kerusuhan padanya. Kebencian berdasarkan dogma yang telah diajarkan memang masih ada, tetapi semuanya dapat berdebat dengan kepala dingin. Tidak pernah ditemukan jalan keluar pada tiap perdebatan antar sekte karena setiapnya memiliki argumennya masing-masing. 
 
@@ -230,7 +230,7 @@ Ketika tingkat hikkikomori meningkat yang artinya semakin banyak orang menyerah 
 
 Orang yang tidak ingin berpartisipasi tersebut biasanya memiliki banyak tipe. Ada tipe yang memang lebih suka menyendiri. Pada tipe ini, meskipun mereka tidak aktif dalam lingkungan sosial di luar digital, mereka tetap punya harapan untuk hidup berkontribusi pada sesuatu apa yang cita-citakan. Beberapa dari mereka bekerja sebagai pengembang game solo, penulis, pembuat musik, ataupun mangaka. Mereka sangat berusaha menghemat pengeluaran dan sangat terobsesi untuk dapat menyukseskan karya-karyanya. Meskipun begitu, tidak semua dapat sukses di zaman mereka hidup, terkadang terdapat beberapa karya yang sangat sulit dipahami masyarakat saat itu, dan baru akan dipahami beberapa periode zaman setelahnya, atau bersifat posthumous. 
 
-Namun, ada juga karya yang tidak menarik perhatian masyarakat sama sekali sehingga ia mati ditelan oleh Zaman. Masyarakat sangat mengerti bahwa tidak semuanya dapat bertahan. Maka dari itu, yang bisa dilakukan masyarakat hanyalah mengapresiasi dan memberikan perpisahan yang sebaik-baiknya saat mereka tiada. Meskipun yang tiada tersebut sangat acuh tak acuh di hadapan masyarakat, masyarakat iklas memberikan perpisahan sebaik-baiknya, sehingga tidak ada dendam dan kebencian karena semuanya berusaha saling mencintai. 
+Namun, ada juga karya yang tidak menarik perhatian masyarakat sama sekali sehingga ia mati ditelan oleh zaman. Masyarakat sangat mengerti bahwa tidak semuanya dapat bertahan. Maka dari itu, yang bisa dilakukan masyarakat hanyalah mengapresiasi dan memberikan perpisahan yang sebaik-baiknya saat mereka tiada. Meskipun yang tiada tersebut sangat acuh tak acuh di hadapan masyarakat, masyarakat iklas memberikan perpisahan sebaik-baiknya, sehingga tidak ada dendam dan kebencian karena semuanya berusaha saling mencintai. 
 
 Tipe lainnya, mereka yang sebenarnya tidak ingin sendiri. Mereka menyerah karena merasa tidak ada harapan lagi untuk bangkit dari keterpurukannya, entah karena berbagai alasan. Yang paling sulit dipahami masyarakat ialah mereka yang kehilangan kehendak untuk hidup. Saat ditanya menginginkan apa, mereka hanya menjawab bahwa mereka tidak ingin apa-apa. Mungkin mereka sudah berusaha sekuat tenaga untuk berusaha mengenali diri mereka sendiri, tetapi sayangnya terkadang ada perasaan terjebak hingga mereka merasa upayanya sia-sia, dan tidak ada hal lain yang bisa mereka lakukan untuk mengenal mereka sendiri. Saat mereka tidak mengenal diri sendiri dan kehilangan kemauan untuk mengenal diri sendiri, maka mereka pun akan kehilangan kehendak untuk berkehendak, dan biasanya terjebak pada lingkaran adiksi dari kesenangan yang bersifat sementara dari berbagai hiburan yang ada. 
 
@@ -240,11 +240,11 @@ Terdapat 2 kemungkinan dari kondisi langka tersebut. Yang pertama adalah orang t
 
 ---
 
-## Pupa yang kehilangan nafsu untuk bermetamorfosis
+### Pupa yang kehilangan nafsu untuk bermetamorfosis
 
 Tidak semua penyakit bisa disembuhkan. Terkadang terdapat kondisi yang sebesar apapun para makhluk kecil coba untuk lawan seperti sel kanker, sebesar apapun ikhtiarnya terkadang gagal juga. Maka sistem yang besar itu bersifat preventif dan mampu memprediksi siapa saja yang akan kalah. 
 
-Terdapat beberapa produk hasil dari upaya mereduksi rasa penderitaan. Produk tersebut merupakan hasil dari eksperimen yang menguras energi banyak ahli. Perdebatan tentang etika tidak relevan, karena semuanya adalah tanggung jawab individu untuk memutuskan apakah ia akan tetap tegar menghadapi penderitaan atau justru berani untuk pergi ke neraka nya mayoritas.
+Terdapat beberapa produk hasil dari upaya mereduksi rasa penderitaan. Produk tersebut merupakan hasil dari eksperimen yang menguras energi banyak ahli. Perdebatan tentang etika tidak relevan, karena semuanya adalah tanggung jawab individu untuk memutuskan apakah ia akan tetap tegar menghadapi penderitaan atau justru berani untuk pergi ke neraka nya si mayoritas.
 
 'Sarco pod' adalah namanya. Alat itu membuka peluang ekonomi bagi negara berkembang, dari mulai saintis, distributor, tenaga ahli medis, dan masih banyak lagi. Ia merupakan inovasi di saat alat lain begitu menyakitkan untuk mengakhiri. Ia secara legal digunakan di berbagai negara dengan berbagai catatan hukum, seperti persetujuan orang yang akan masuk ke kapsul tersebut dan persetujuan keluarga atau orang terdekatnya.
 
@@ -258,12 +258,12 @@ Setelah adanya alat tersebut, setiap percobaan dilakukan dengan senyap, tanpa me
 
 ---
 
-## Mahasiswa bersatu untuk meng-open source-kan sistem keagamaan
+### Mahasiswa bersatu untuk meng-open source-kan sistem keagamaan
 
 Setiap bocil pada bisa jadi manajer masjid, tidak perlu MBA, setiap perusahaan mencari CEO dari tiap marbot masjid dengan rank tinggi 
 
 
-## Ustadz paham SDG dan prioritas
+### Ustadz paham SDG dan prioritas
 
 Para ustad menyusun agenda dan menyesuaikannya dengan SGD development untuk masjid. 
 
