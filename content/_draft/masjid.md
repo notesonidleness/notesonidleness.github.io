@@ -283,3 +283,17 @@ i want to write a novel like daerah salju yasunari kawabata, but university ruin
 philosopher now is abundance, young tends to be more in home and give up, worlds become boring is everyone is philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i regard and called 'home' to any place on earth which i find serenity meskipun itu di toilet mall atau kuburan, then it means i always in home because i am a cosmopolitan... thus i am a hikkikomori by nature... 
 
 even in a moderate way sekalipun there's always a invinsible kutub. "invinsible hand that forces us to buy things we dont' need to impress people we dont like by money we dont have". invinsible hand that makes us believe that we are moderate while the truth, we are not. we are menyimpang, we stray further from the zero everyday.
+
+---
+
+whoosh ini ada untuk memberantas penyakit bengong ane di cikuray, masa bodoh kalo biayanya ekuivalen buat transport lain di luar jawa. terima kasih pak jokowi dan pak xi jinping !!!
+
+---
+
+some of smartest cs guy I knew doing femboy cossplay, a hafizh I knew did 'jajan', another that used to setoran murajaah ke aing get commision from drawing furry.
+
+so what stops you spread salafi aqida, or showing support for your ultra conservative political party anon?
+
+or publish your cerpen bayi kitab KUNING?
+
+just ship any your product please, I BEG YOU !!!
