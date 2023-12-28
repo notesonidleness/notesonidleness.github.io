@@ -7,6 +7,8 @@ tags:
 title: Liga Arab, Bani Israil, dan Project Manager Lebah
 ---
 
+### Liga Arab, Bani Israil, dan Project Manager Lebah
+
 Saat pasukan lebah sudah membangun 1/4 sarangnya di plafon rumah anda, anda mungkin bertanya-tanya, mengapa harus di tempat dekat saya tinggal? 
 
 Bayangkan apabila PM lebah, entahlah siapa yang ditunjuk ratu lebah, yang memiliki keahlian sebagai PM, atau mungkin dirinya sendiri karena ia merupakan yang paling superior diantara para lebah, sudah merencanakan dengan matang mengenai rencana proyek migrasinya. 

@@ -1,4 +1,6 @@
-1445H - TW: No data, as data is only for the infidel.
+TW: No data, as data is only for the infidel
+
+1445H
 
 ### Solution to a problem that doesn't exist
 
