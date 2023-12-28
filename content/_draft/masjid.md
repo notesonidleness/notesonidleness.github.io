@@ -280,7 +280,7 @@ Bagaimana hidup selamanya menurut anda.
 
 i want to write a novel like daerah salju yasunari kawabata, but university ruins me by mencekokiku dengan formalitas pendidikan dari kuliah metodologi MPPI, so it turns out it is like dokumentasi analisis dan perancangan sistem informasi, yang gagal aku ikutkan ke Gemastik di tahun pandemi karena tulisanku seperti orang obsessed terhadap sesuatu dan terlalu mabuk sehingga aku gagal marketing my ideas and objective to para sapi di rumah penggilingan. 
 
-philosopher now is abundance, young tends to be more in home and give up, worlds become boring is everyone is philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i regard and called 'home' to any place on earth which i find serenity meskipun itu di toilet mall atau kuburan, then it means i always in home because i am a cosmopolitan... thus i am a hikkikomori by nature... 
+philosopher now is abundance, young tends to be more in home and give up, worlds become boring if everyone become philosopher, but the democratization of knowledge makes everyone become philosopher. hikkikomori is filsuf. if i regard and called 'home' to any place on earth which i find serenity meskipun itu di toilet mall atau kuburan, then it means i always in home because i am a cosmopolitan... thus i am a hikkikomori by nature... 
 
 even in a moderate way sekalipun there's always a invinsible kutub. "invinsible hand that forces us to buy things we dont' need to impress people we dont like by money we dont have". invinsible hand that makes us believe that we are moderate while the truth, we are not. we are menyimpang, we stray further from the zero everyday.
 

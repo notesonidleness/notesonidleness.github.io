@@ -33,13 +33,27 @@ Perhaps the awakening of Pacman's ideology
 4. Share what you gain, for the dead
 
 Eat that egalitarian euclidian utopian full of assumptions by the physics envy
-Kill the languages, be wearing blinders, blind is better, for wisdom sets a limit to knowledge.
+Kill the languages, 
+be wearing blinders, blind is better, for wisdom sets a limit to knowledge.
 
-Express the unfreedom not with the language, but rather with the belief of music of the divine, for one might believe in the surreal of transience and eternity.
+Express the unfreedom not with the language, 
+but rather with the belief of music of the divine, 
+for one might believe in the surreal of transience and eternity.
 
-To sweep the corrupt is to against variety using knowledge, which is limited by wisdom (pandemic, nuclear, AI, molecular nanotech). It is the same as empowering the Luddites. Condemn all with freedom!
+To sweep the corrupt is to against variety using knowledge, 
+which is limited by wisdom (pandemic, nuclear, AI, molecular nanotech). 
+It is the same as empowering the Luddites. 
+Condemn all with freedom!
 
-Boredom can pretend they don't need the game, but only when they are sick they truly realize they can't escape the game. Since in praise of idleness is a loss aversion, it's time to do subtraction over addition, forget all the before and above, search among the probabilities 0.01369863, tazkiyatunnafs, music and dance 5 times a day for a lifetime, wallahu a'lam.
+Boredom can pretend they don't need the game, 
+but only when they are sick they truly realize they can't escape the game. 
+Since in praise of idleness is a loss aversion, 
+it's time to do subtraction over addition, 
+forget all the before and above, 
+search among the probabilities 0.01369863, 
+tazkiyatunnafs, 
+music and dance 5 times a day for a lifetime, 
+wallahu a'lam.
 ```
 
 ---
