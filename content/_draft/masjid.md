@@ -96,6 +96,21 @@ Kurangi nongkrong tidak berfaedah, travelling tanpa tujuan, segala macam bentuk 
 
 Bahkan apabila ada warga Pal\*stina yang terdeteksi oleh *insects* itu bahwa ia ingin memperjuangkan khilafah, maka robot itu pun punya 2 cara untuk mengatasinya, pertama: pemaksaan penanaman ideologi pancasila sehingga ideologi lain tidak relevan, yang kedua apabila pemaksaan tersebut tidak memungkinkan, robot itu tinggal meledakkan kepala "musuh" itu dan membuat peristiwa tersebut seakan-akan peristiwa bunuh diri karena "musuh" tersebut sudah tidak memungkinkan untuk menerima agama Pancasila yang agung.
 
+Circular fallacy:
+
+1. 
+- Tidak ada orang baik yang bodoh.
+- Penjahat itu pintar.
+- Jika orang yang suka memboycott itu logikanya pendek/ tidak bisa berpikir sistematis dan komprehensif, maka artinya mereka bodoh.
+- Maka tukang boycott bukan orang baik.
+
+2.
+- Kebodohan adalah ciri dari kelemahan. 
+- Lemah adalah salah satu bentuk kejahatan.
+- Untuk menjadi pintar, terkadang diperlukan cara berpikir seperti penjahat.
+- Orang baik tidak suka memposisikan dirinya sebagai penjahat.
+- Orang baik memiliki potensi untuk menjadi bodoh.
+
 ### Libertarian yang tidak punya 'Byakugan' di leher belakangnya mirip Neji vs Kidomaru
 
 Salah satu hal yang menjadi blind spot bagi orang-orang libertarian progresif seperti Sabda, Cania, Budiman, dan lain sebagainya adalah bidang agama.
