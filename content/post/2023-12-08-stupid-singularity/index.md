@@ -6,13 +6,9 @@ tags:
 title: "Smartband is a pain in the ass"
 ---
 
-this is why the singularity is still years away:
+forget about singularity or flying cars; a smartwatch or smartband is a pain in the ass. #zonauang
 
-forget about flying cars; a smartwatch or smartband is a pain in the ass. 
-
-#zonauang
-
-- i need a dot/point device that i can paste anywhere on my body, like on an indian woman's forehead if you want to showcase the device or need to display its status for those who prefer to hide their wealth; it can adhere anywhere on the body.
+- i need a dot/point device that i can paste anywhere on my body, like on an indian woman's forehead if you want to showcase the device, or those who prefer to hide their wealth; it can adhere anywhere on the body.
 
 - the device can track all your movements and monitor the health of any part of your body. it's lighter than any gadget. 
 

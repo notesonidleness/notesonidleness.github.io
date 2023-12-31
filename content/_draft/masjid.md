@@ -315,6 +315,14 @@ some of smartest cs guy I knew doing femboy cossplay, a hafizh I knew did 'jajan
 
 so what stops you spread salafi aqida, or showing support for your ultra conservative political party anon?
 
+some of smartest CS guys i knew were doing femboy cosplay; a hafiz i knew was into 'jajan', another used to setoran 'murajaah' ke aing receive commissions from drawing adult furry. 
+
+what stops you from spreading salafi aqida or showing support for your ultra conservative/radical political party anon?
+
 or publish your cerpen bayi kitab KUNING?
 
-just ship any your product please, I BEG YOU !!!
+just ship any of your products, pleaseeeeeeee. I BEGGG
+
+some of the smartest CS guys I knew were doing femboy cosplay; a hafiz i knew was into 'jajan', another used to receive commissions from drawing furry.
+
+what stops you from spreading salafi aqida or showing support for your ultra conservative/radical political party, anon?
