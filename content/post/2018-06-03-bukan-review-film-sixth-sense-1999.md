@@ -5,7 +5,6 @@ tags:
 - film
 - review
 - horror
-thumbnail: https://2.bp.blogspot.com/-envbbvkVCvs/Wx9sdD84V1I/AAAAAAAAAgQ/asHG4IhXsbMMR8oBK7bb3bFZ77N_CAXPQCLcBGAs/s72-c/Screenshot%2B%252818%2529.png
 title: Review Sixth Sense (1999)
 ---
 
@@ -29,41 +28,9 @@ Pada scene Anniversary Dinner,DR. Malcolm yang ingin membantu Cole menyembuhkan 
 
 Kemudian di scene Freak dan Locked in the Dungeon, Coledibully teman-temannya dan dikurung di suatu ruangan yang membuat penyakit paranoidnya semakin parah. DR. Malcolm akhirnya menemani Cole, dan mereka saling jujur tentang rahasianya. Rahasia DR. Malcolm yang kesulitan berhubungan dengan istrinya akibat ingin membantu Cole, dan akhirnya Cole mulai membuka diri kepada DR. Malcolm dengan memberitahukan rahasianya yang cukup mengejutkan.
 
-  
+![cole](https://i.pinimg.com/originals/ce/54/a4/ce54a406ecbf814dcacf3b9571eff117.png)
 
-  
-
-[![sixth-sense](https://4.bp.blogspot.com/-i3z39XSGa0Y/WxP5xT_3QwI/AAAAAAAAAfQ/vZp_FcoW680WUs-6Aj6j3913JGLv1wIuQCEwYBhgL/s320/Screenshot%2B%252811%2529.png)](https://4.bp.blogspot.com/-i3z39XSGa0Y/WxP5xT_3QwI/AAAAAAAAAfQ/vZp_FcoW680WUs-6Aj6j3913JGLv1wIuQCEwYBhgL/s1600/Screenshot%2B%252811%2529.png)
-
-  
-
-[![sixth-sense](https://1.bp.blogspot.com/-pWS7AAYd38E/WxP5xQ61QbI/AAAAAAAAAfU/ZDEQnAGK6NwCPa9ZiPYL77iRRyPyJYiSACEwYBhgL/s320/Screenshot%2B%252812%2529.png)](https://1.bp.blogspot.com/-pWS7AAYd38E/WxP5xQ61QbI/AAAAAAAAAfU/ZDEQnAGK6NwCPa9ZiPYL77iRRyPyJYiSACEwYBhgL/s1600/Screenshot%2B%252812%2529.png)
-
-  
-
-[![sixth-sense](https://4.bp.blogspot.com/-oiuoCTc7qD4/WxP6XLMispI/AAAAAAAAAfs/ohZ_jYEv3XAItOQyIxVi6Ly31kaF8d-8QCEwYBhgL/s320/Screenshot%2B%252813%2529.png)](https://4.bp.blogspot.com/-oiuoCTc7qD4/WxP6XLMispI/AAAAAAAAAfs/ohZ_jYEv3XAItOQyIxVi6Ly31kaF8d-8QCEwYBhgL/s1600/Screenshot%2B%252813%2529.png)
-
-  
-
-[![sixth-sense](https://4.bp.blogspot.com/-xh4G1_Vl4_0/WxP6W7i_9cI/AAAAAAAAAfk/sbwmsUCesF0wr_9yqhzdQ-xFFLQkQYZawCEwYBhgL/s320/Screenshot%2B%252814%2529.png)](https://4.bp.blogspot.com/-xh4G1_Vl4_0/WxP6W7i_9cI/AAAAAAAAAfk/sbwmsUCesF0wr_9yqhzdQ-xFFLQkQYZawCEwYBhgL/s1600/Screenshot%2B%252814%2529.png)
-
-  
-
-[![sixth-sense](https://3.bp.blogspot.com/-vLWjC6_1v0o/WxP6W2yt_TI/AAAAAAAAAfo/8Glr99xYpUE5MC-dzxTYE-MCjdwCqO1NACEwYBhgL/s320/Screenshot%2B%252815%2529.png)](https://3.bp.blogspot.com/-vLWjC6_1v0o/WxP6W2yt_TI/AAAAAAAAAfo/8Glr99xYpUE5MC-dzxTYE-MCjdwCqO1NACEwYBhgL/s1600/Screenshot%2B%252815%2529.png)
-
-  
-
-Dilanjutkan ke scene Someone's in the kitchen dan Trouble in Family, ternyata Colebenar-benar bisa melihat hantu, dan hantu-hantu tersebut berusaha berkomunikasi dengan Coleuntuk meminta tolong kepada Cole. Cole yang ketakutan tidak bisa menerima begitu saja dan kemudian memberitahukannya pada DR. Malcolm. Malcolmsebenarnya tidak percaya namun bersikap seolah ia percaya karena ingin membantu Colemenyembuhkan penyakitnya. Cole kemudian menuruti permintaan hantu tersebut dan membantunya.
-
-  
-
-[](https://3.bp.blogspot.com/-OgacJJ0p2kM/WxP8ClEU5_I/AAAAAAAAAf0/wDPwZA-4gZo0hw5bUOZ2PEDkMOOH0GkxwCLcBGAs/s1600/Screenshot%2B%252818%2529.png)
-
-  
-
-  
-
-  
+Dilanjutkan ke scene Someone's in the kitchen dan Trouble in Family, ternyata Colebenar-benar bisa melihat hantu, dan hantu-hantu tersebut berusaha berkomunikasi dengan Coleuntuk meminta tolong kepada Cole. Cole yang ketakutan tidak bisa menerima begitu saja dan kemudian memberitahukannya pada DR. Malcolm. Malcolmsebenarnya tidak percaya namun bersikap seolah ia percaya karena ingin membantu Colemenyembuhkan penyakitnya. Cole kemudian menuruti permintaan hantu tersebut dan membantunya.  
 
 Lalu di scene selanjutnya DR. Malcolm mulai menyerah untuk membantu Cole. Cole kecewa kepada DR. Malcolm karena ia merasa bahwa tinggal sedikit lagi ia bisa sembuh dari penyakit ketakutannya yang berlebihan. Diakhiri DR. Malcolmyang meminta maaf pada istrinya dan pengulangan bagian "**_I see dead people_**" yang diucapkan oleh Cole.
 
@@ -124,6 +91,3 @@ $ **_Be real still. Sometimes you feel it sometimes like you're falling down rea
   
 
 $ **_Sometimes, people think they lose things, and they didn't lose them—it just gets moved._** \-Cole  
-  
-
-[![sixth-sense](https://2.bp.blogspot.com/-envbbvkVCvs/Wx9sdD84V1I/AAAAAAAAAgQ/asHG4IhXsbMMR8oBK7bb3bFZ77N_CAXPQCLcBGAs/s320/Screenshot%2B%252818%2529.png)](https://2.bp.blogspot.com/-envbbvkVCvs/Wx9sdD84V1I/AAAAAAAAAgQ/asHG4IhXsbMMR8oBK7bb3bFZ77N_CAXPQCLcBGAs/s1600/Screenshot%2B%252818%2529.png)

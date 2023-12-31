@@ -3,7 +3,6 @@ date: "2018-06-30T04:46:00Z"
 modified_time: "2020-07-29T01:48:37.474-07:00"
 tags:
 - rhyme
-thumbnail: https://3.bp.blogspot.com/-OZvLKo7MDZc/Wzr69AQOmaI/AAAAAAAAAjA/onReOlwuKuspM612WOdeN_O5HxyXGraNACK4BGAYYCw/s72-c/tidak%2Bpunya%2Bcita%2Bcita.jpg
 title: Tujuan, perlukah ?
 ---
 

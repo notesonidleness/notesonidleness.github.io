@@ -4,7 +4,6 @@ modified_time: "2020-12-11T07:05:16.857-08:00"
 tags:
 - book
 - review
-thumbnail: https://1.bp.blogspot.com/-Tx21nFHymBE/XyoKbGh0uWI/AAAAAAAAA5Y/e1zNm1wUNXIcj2JLTO4WOikbIxmgjDaVwCLcBGAsYHQ/s72-w180-c-h320/review%2Bdaerah%2Bsalju.jpeg
 title: Review Daerah Salju Yasunari Kawabata
 ---
 

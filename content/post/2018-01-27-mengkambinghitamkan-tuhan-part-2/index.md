@@ -3,7 +3,6 @@ date: "2018-01-27T15:11:00Z"
 modified_time: "2019-02-03T14:34:19.885-08:00"
 tags:
 - rhyme
-thumbnail: https://2.bp.blogspot.com/-cIFdK2Ctuto/Wzr8bvOPELI/AAAAAAAAAjY/k7UvCu41uNkyVNxrRlWQkYnipMMtnsQ8ACK4BGAYYCw/s72-c/Tuhan%2Btidak%2Bexist.jpg
 title: Mengkambinghitamkan Tuhan
 ---
 

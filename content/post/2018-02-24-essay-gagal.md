@@ -3,7 +3,6 @@ date: "2018-02-24T10:43:00Z"
 modified_time: "2018-07-04T19:38:36.725-07:00"
 tags:
 - essay
-thumbnail: https://4.bp.blogspot.com/-dW6MRa1wTY4/Wzr6q5KcncI/AAAAAAAAAiw/LrLO0FAwzsoZoT-yL_ht6VnUurAfnEzYwCK4BGAYYCw/s72-c/cara-membuat-essay-yang-baik.jpg
 title: Realisasi Sistem Ramah Anak di Sekolah
 ---
 
