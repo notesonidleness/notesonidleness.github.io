@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Here are the definitions for the provided words and phrases:
 
 1. -movements of small green pieces of paper:

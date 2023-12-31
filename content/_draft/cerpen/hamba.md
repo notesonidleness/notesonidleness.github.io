@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Pengikut partai yang munafik
 
 Pidato ketum

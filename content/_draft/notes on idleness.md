@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Notes on Idleness
 
 Catatan kemalasan: Seni dan anti panduan untuk yang merasa bukan normal

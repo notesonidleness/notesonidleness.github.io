@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 # "Your Anxiety is Telling You the Truth."
 
 - Anxiety is related to freedom, drawing from Kierkegaard's concept of anxiety as the dizziness of freedom, how freedom requires making choices and imposing limitations on oneself.

@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Yang terpengaruh kalor secara negatif, mohon ampunlah atas ketololan
 kita sekalian
 

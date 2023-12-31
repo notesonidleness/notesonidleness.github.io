@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Keluarga harmonis, islamik, ga kaya2 bgngt gara-gara salah pesen nasi
 bakar,
 
