@@ -1,9 +1,10 @@
-```
-Metadata 
-
-Manifesto
-
-```
+---
+date: "1111-11-11"
+tags:
+- essay
+- muslim
+title: "Manifesto"
+---
 
 بسم الله الرحمن الرحيم
 
