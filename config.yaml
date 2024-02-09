@@ -123,8 +123,8 @@ menu:
     #   name: Writings
     #   url: /post/
     #   weight: 1
-    - identifier: Writings
-      name: Writings
+    - identifier: Posts
+      name: Posts
       url: /archives/
       weight: 1
     - identifier: Tags
