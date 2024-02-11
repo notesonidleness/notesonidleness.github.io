@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Laataiasu
     subtitle: "Notes on Idleness"
-    imageUrl: "https://catatankemalasan.files.wordpress.com/2021/11/photo.jpg"
+    imageUrl: "https://catatankemalasan.files.wordpress.com/2021/11/photo.jpg?resize=214%2C214"
     imageWidth: 200
     imageHeight: 200
     imageTitle: laataiasu
