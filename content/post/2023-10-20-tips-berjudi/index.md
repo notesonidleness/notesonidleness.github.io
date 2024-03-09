@@ -2,7 +2,7 @@
 date: "2023-10-20"
 tags:
 - story
-title: tips untuk si lemah syahwat a.k.a tukang judi
+title: Tips Untuk Si Lemah Syahwat A.K.A Tukang Judi
 ---
 
 sebelum terjun ke dunia perjudian, coba tonton dulu anime kakegurui
